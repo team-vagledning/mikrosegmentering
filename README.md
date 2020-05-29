@@ -1,14 +1,14 @@
 ### Installation
 
-`npm install team-vagledning/mikrosegmentering`
+`npm install mikrosegmentering`
 
 
 ### Användning
 
 ```
-const mikro = require('mikrosegmentering)
+const mikro = require('mikrosegmentering')
 
-mikro.getMikrosegmentering({
+mikro.getMikrosegment({
     ssyk: 11,
     alder: 35,
     bosatt: 1,
