@@ -78,7 +78,20 @@ module.exports.getMikrosegment = (inputs) => {
         (inputs.bosatt - means.bosatt) / deviations.bosatt
     ], centroids)
 
-    return yrkesdata[key]
+    const m = yrkesdata[key]
+    
+    return {
+        ssyk: getFieldValue(m, 'A'),
+        mikrosegment: getFieldValue(m, 'B'),
+        medelalder: getFieldValue(m, 'C'),
+        medelutbildningsniva: getFieldValue(m, 'D'),
+        medelandel_bosatt_sverige: getFieldValue(m, 'E'),
+        andel_studerande_senaste_aret: getFieldValue(m, 'AU'),
+        medelinkomst: getFieldValue(m, 'AW'),
+        forvantad_automatiserng: getFieldValue(m, 'DG'),
+        mobilitetsindex: getFieldValue(m, 'DH'),
+        andel_float_till_arbetsloshet: getFieldValue(m, 'DO'),
+    }
 }
 
 
