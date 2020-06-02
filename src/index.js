@@ -90,7 +90,7 @@ module.exports.getMikrosegment = (inputs) => {
         medelinkomst: getFieldValue(m, 'AW'),
         forvantad_automatiserng: getFieldValue(m, 'DG'),
         mobilitetsindex: getFieldValue(m, 'DH'),
-        andel_float_till_arbetsloshet: getFieldValue(m, 'DO'),
+        andel_flodat_till_arbetsloshet: getFieldValue(m, 'DO'),
     }
 }
 
