@@ -1,4 +1,5 @@
-const data = require('../data/mikrosegmentering.json')
+//const data = require('../data/mikrosegmentering.json')
+import data from '../data/mikrosegmentering.json'
 
 const classify = (point, centroids) => {
     var min = Infinity, index = 0;
@@ -37,7 +38,7 @@ const getFieldValue = (record, excelField) =>
     let value = record['FIELD' + excelHeaderToNumber(excelField)]
 
     if (isNaN(value)) {
-        return parseFloat(value.replace(',', '.'))
+        return parseFloat(value.replace(',', '.').replace(' ', ''))
     }
     
     return value
