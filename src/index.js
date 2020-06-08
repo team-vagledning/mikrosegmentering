@@ -33,7 +33,7 @@ const excelHeaderToNumber = (val) => {
     return result
 }
 
-const getFieldValue = (record, excelField) =>
+const getFieldNumericValue = (record, excelField) =>
 {
     let value = record['FIELD' + excelHeaderToNumber(excelField)]
 
@@ -44,31 +44,36 @@ const getFieldValue = (record, excelField) =>
     return value
 }
 
+const getFieldStringValue = (record, excelField) =>
+{
+    return record['FIELD' + excelHeaderToNumber(excelField)]
+}
+
 module.exports.getMikrosegment = (inputs) => {
 
     // Get selected yrkes
-    const yrkesdata = data.filter(yrke => getFieldValue(yrke, 'A') == inputs.ssyk)
+    const yrkesdata = data.filter(yrke => getFieldNumericValue(yrke, 'A') == inputs.ssyk)
 
     // Fetch means and deviations, 
     // there're the same for all clusters of the same yrke
     const means = {
-        medelalder: getFieldValue(yrkesdata[0], 'DH'),
-        utbildningsniva: getFieldValue(yrkesdata[0], 'DI'),
-        bosatt: getFieldValue(yrkesdata[0], 'DJ')
+        medelalder: getFieldNumericValue(yrkesdata[0], 'DH'),
+        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DI'),
+        bosatt: getFieldNumericValue(yrkesdata[0], 'DJ')
     }
     const deviations = {
-        medelalder: getFieldValue(yrkesdata[0], 'DK'),
-        utbildningsniva: getFieldValue(yrkesdata[0], 'DL'),
-        bosatt: getFieldValue(yrkesdata[0], 'DM')
+        medelalder: getFieldNumericValue(yrkesdata[0], 'DK'),
+        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DL'),
+        bosatt: getFieldNumericValue(yrkesdata[0], 'DM')
     }
 
     // Make centroids
     let centroids = []
     for (const r of yrkesdata) {
         centroids.push([
-            (getFieldValue(r, 'C') - means.medelalder) / deviations.medelalder,
-            (getFieldValue(r, 'D') - means.utbildningsniva) / deviations.utbildningsniva,
-            (getFieldValue(r, 'E') - means.bosatt) / deviations.bosatt
+            (getFieldNumericValue(r, 'C') - means.medelalder) / deviations.medelalder,
+            (getFieldNumericValue(r, 'D') - means.utbildningsniva) / deviations.utbildningsniva,
+            (getFieldNumericValue(r, 'E') - means.bosatt) / deviations.bosatt
         ])
     }
 
@@ -82,16 +87,33 @@ module.exports.getMikrosegment = (inputs) => {
     const m = yrkesdata[key]
     
     return {
-        ssyk: getFieldValue(m, 'A'),
-        mikrosegment: getFieldValue(m, 'B'),
-        medelalder: getFieldValue(m, 'C'),
-        medelutbildningsniva: getFieldValue(m, 'D'),
-        medelandel_bosatt_sverige: getFieldValue(m, 'E'),
-        andel_studerande_senaste_aret: getFieldValue(m, 'AU'),
-        medelinkomst: getFieldValue(m, 'AW'),
-        forvantad_automatiserng: getFieldValue(m, 'DG'),
-        mobilitetsindex: getFieldValue(m, 'DH'),
-        andel_flodat_till_arbetsloshet: getFieldValue(m, 'DO'),
+        ssyk: getFieldNumericValue(m, 'A'),
+        mikrosegment: getFieldNumericValue(m, 'B'),
+        medelalder: getFieldNumericValue(m, 'C'),
+        medelutbildningsniva: getFieldNumericValue(m, 'D'),
+        medelandel_bosatt_sverige: getFieldNumericValue(m, 'E'),
+        andel_studerande_senaste_aret: getFieldNumericValue(m, 'AU'),
+        medelinkomst: getFieldNumericValue(m, 'AW'),
+        forvantad_automatisering: getFieldNumericValue(m, 'DG'),
+        forvantad_automatisering_klass: getFieldStringValue(m, 'DH'),
+        mobilitetsindex: getFieldNumericValue(m, 'DI'),
+        andel_flodat_till_arbetsloshet: getFieldNumericValue(m, 'DP'),
+        andel_kvar_i_yrket: getFieldNumericValue(m, 'DQ'),
+        andel_bytt_yrke_topp_3: [
+            {
+                ssyk: getFieldNumericValue(m, 'DR'),
+                andel: getFieldNumericValue(m, 'DU')
+            },
+            {
+                ssyk: getFieldNumericValue(m, 'DS'),
+                andel: getFieldNumericValue(m, 'DV')
+            },
+            {
+                ssyk: getFieldNumericValue(m, 'DT'),
+                andel: getFieldNumericValue(m, 'DW')
+            }
+        ],
+        andel_bytt_yrke_ovriga: getFieldNumericValue(m, 'DX')
     }
 }
 
