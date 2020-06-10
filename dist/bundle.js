@@ -23992,6 +23992,429 @@
   ]
   };
 
+  var konkurrens = {
+  	"21": [
+  	{
+  		value: 4.25,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.17,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"22": [
+  	{
+  		value: 4.55,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.51,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"23": [
+  	{
+  		value: 4.43,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.47,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"24": [
+  	{
+  		value: 3.12,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.03,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"25": [
+  	{
+  		value: 4.85,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.57,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"26": [
+  	{
+  		value: 3.44,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.36,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"31": [
+  	{
+  		value: 4.54,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.39,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"32": [
+  	{
+  		value: 4.02,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.82,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"33": [
+  	{
+  		value: 3.51,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.35,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"34": [
+  	{
+  		value: 3.18,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.42,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"35": [
+  	{
+  		value: 3.54,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.69,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"41": [
+  	{
+  		value: 2.84,
+  		text: "Hård konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.53,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"42": [
+  	{
+  		value: 2.95,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.72,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"43": [
+  	{
+  		value: 3.08,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.97,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"44": [
+  	{
+  		value: 2.52,
+  		text: "Hård konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.83,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"51": [
+  	{
+  		value: 4.06,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.93,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"52": [
+  	{
+  		value: 2.67,
+  		text: "Hård konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.26,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"53": [
+  	{
+  		value: 3.74,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.74,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"54": [
+  	{
+  		value: 3.72,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.54,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"61": [
+  	{
+  		value: 3.66,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.47,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"62": [
+  	{
+  		value: 3.62,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.47,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"71": [
+  	{
+  		value: 4.17,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.27,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"72": [
+  	{
+  		value: 4.25,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.3,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"73": [
+  	{
+  		value: 3.1,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.02,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"74": [
+  	{
+  		value: 4.24,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.31,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"75": [
+  	{
+  		value: 3.31,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.8,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"76": [
+  	{
+  		value: 3.96,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.98,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"81": [
+  	{
+  		value: 3.42,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.43,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"82": [
+  	{
+  		value: 3.35,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.28,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"83": [
+  	{
+  		value: 4.26,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 4.17,
+  		text: "Väldigt liten konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"91": [
+  	{
+  		value: 3.44,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.29,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"93": [
+  	{
+  		value: 2.65,
+  		text: "Hård konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.68,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"94": [
+  	{
+  		value: 3.23,
+  		text: "Måttlig konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.08,
+  		text: "Måttlig konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"96": [
+  	{
+  		value: 2.78,
+  		text: "Hård konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 2.65,
+  		text: "Hård konkurrens",
+  		omfattning: 5
+  	}
+  ],
+  	"03": [
+  	{
+  		value: 3.95,
+  		text: "Liten konkurrens",
+  		omfattning: 1
+  	},
+  	{
+  		value: 3.81,
+  		text: "Liten konkurrens",
+  		omfattning: 5
+  	}
+  ]
+  };
+
   var classify = function classify(point, centroids) {
     var min = Infinity,
         index = 0;
@@ -24061,8 +24484,14 @@
       name: getFieldStringValue(yrke, 'B'),
       forvantad_automatisering: getFieldNumericValue(yrkesdata, 'DG'),
       forvantad_automatisering_klass: getFieldStringValue(yrkesdata, 'DH'),
-      mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI')
-    }; // Get related yrken
+      mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI'),
+      konkurrens: null
+    }; // Check for konkurrens
+
+    if (konkurrens.hasOwnProperty(ssyk)) {
+      results['konkurrens'] = konkurrens[ssyk];
+    } // Get related yrken
+
 
     if (withRelated) {
       var related = likhetsanalys[ssyk].map(function (r) {
@@ -24119,10 +24548,6 @@
       medelandel_bosatt_sverige: getFieldNumericValue(m, 'E'),
       andel_studerande_senaste_aret: getFieldNumericValue(m, 'AU'),
       medelinkomst: getFieldNumericValue(m, 'AW'),
-
-      /*forvantad_automatisering: getFieldNumericValue(m, 'DG'),            // Samma
-      forvantad_automatisering_klass: getFieldStringValue(m, 'DH'),       // Samma
-      mobilitetsindex: getFieldNumericValue(m, 'DI'),                     // Samma */
       andel_flodat_till_arbetsloshet: getFieldNumericValue(m, 'DP'),
       andel_kvar_i_yrket: getFieldNumericValue(m, 'DQ'),
       andel_bytt_yrke_topp_3: [Object.assign({

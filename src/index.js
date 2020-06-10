@@ -1,6 +1,7 @@
 import data from '../data/mikrosegmentering.json'
 import yrken from '../data/yrken.json'
 import likhetsanalys from '../data/likhetsanalys.json'
+import konkurrens from '../data/konkurrens.json'
 
 const classify = (point, centroids) => {
     var min = Infinity, index = 0;
@@ -64,6 +65,12 @@ const getYrke = (ssyk, withRelated = true) => {
         forvantad_automatisering: getFieldNumericValue(yrkesdata, 'DG'),           
         forvantad_automatisering_klass: getFieldStringValue(yrkesdata, 'DH'),       
         mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI'),                     
+        konkurrens: null,
+    }
+
+    // Check for konkurrens
+    if (konkurrens.hasOwnProperty(ssyk)) {
+        results['konkurrens'] = konkurrens[ssyk]
     }
 
     // Get related yrken
