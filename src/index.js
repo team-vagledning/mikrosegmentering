@@ -2,6 +2,7 @@ import data from '../data/mikrosegmentering.json'
 import yrken from '../data/yrken.json'
 import likhetsanalys from '../data/likhetsanalys.json'
 import konkurrens from '../data/konkurrens.json'
+import utbildningar from '../data/utbildningar.json'
 
 const classify = (point, centroids) => {
     var min = Infinity, index = 0;
@@ -51,6 +52,18 @@ const getFieldStringValue = (record, excelField) =>
     return record['FIELD' + excelHeaderToNumber(excelField)]
 }
 
+const getUtbildningar = (ssyk, lan = false) => {
+    // Get utbildningar
+    const utb = utbildningar.filter(u => getFieldNumericValue(u, 'D') == ssyk)
+
+    return utb.map((u) => {
+        return {
+            utbildningstyp: getFieldStringValue(u, 'A'),
+            lank: getFieldStringValue(u, 'I'),
+        }
+    })
+}
+
 const getYrke = (ssyk, withRelated = true) => {
     // Get selected yrke
     const yrke = yrken.filter(yrke => getFieldNumericValue(yrke, 'A') == ssyk).pop()
@@ -66,6 +79,7 @@ const getYrke = (ssyk, withRelated = true) => {
         forvantad_automatisering_klass: getFieldStringValue(yrkesdata, 'DH'),       
         mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI'),                     
         konkurrens: null,
+        utbildningar: getUtbildningar(ssyk)
     }
 
     // Check for konkurrens
