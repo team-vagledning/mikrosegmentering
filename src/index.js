@@ -2,7 +2,9 @@ import data from '../data/mikrosegmentering.json'
 import yrken from '../data/yrken.json'
 import likhetsanalys from '../data/likhetsanalys.json'
 import konkurrens from '../data/konkurrens.json'
+import lankommuner from '../data/lankommuner.json'
 import utbildningar from '../data/utbildningar.json'
+import utbildningar_geografi from '../data/utbildningar_geografi.json'
 
 const classify = (point, centroids) => {
     var min = Infinity, index = 0;
@@ -54,17 +56,35 @@ const getFieldStringValue = (record, excelField) =>
 
 const getUtbildningar = (ssyk, lan = false) => {
     // Get utbildningar
-    const utb = utbildningar.filter(u => getFieldNumericValue(u, 'D') == ssyk)
+    const utb = utbildningar.filter((u) => getFieldNumericValue(u, 'D') == ssyk)
+
+    const buildUtbildningLank = (utbildningstyp, lank) => {
+        if (lan && utbildningstyp != "Komvux") {
+            const geo = utbildningar_geografi.filter((u) => getFieldStringValue(u, 'B') == lan && getFieldStringValue(u, 'A') == utbildningstyp).pop()
+
+            if (geo) {
+                const suffix = getFieldStringValue(geo, 'C')
+                if (suffix.length > 1) {
+                    lank += suffix
+                }
+            }
+        }
+
+        return lank
+    }
 
     return utb.map((u) => {
         return {
             utbildningstyp: getFieldStringValue(u, 'A'),
-            lank: getFieldStringValue(u, 'I'),
+            lank: buildUtbildningLank(
+                getFieldStringValue(u, 'A'),
+                getFieldStringValue(u, 'I')
+            ),
         }
     })
 }
 
-const getYrke = (ssyk, withRelated = true) => {
+const getYrke = (ssyk, withRelated = true, lan) => {
     // Get selected yrke
     const yrke = yrken.filter(yrke => getFieldNumericValue(yrke, 'A') == ssyk).pop()
 
@@ -79,7 +99,7 @@ const getYrke = (ssyk, withRelated = true) => {
         forvantad_automatisering_klass: getFieldStringValue(yrkesdata, 'DH'),       
         mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI'),                     
         konkurrens: null,
-        utbildningar: getUtbildningar(ssyk)
+        utbildningar: getUtbildningar(ssyk, lan)
     }
 
     // Check for konkurrens
@@ -100,6 +120,9 @@ const getYrke = (ssyk, withRelated = true) => {
 }
 
 const getMikrosegment = (inputs) => {
+
+    // Find län from kommun
+    const lan = Object.keys(lankommuner).filter((key) => { return lankommuner[key].includes(inputs.kommun)}).pop()
 
     // Get selected yrkes
     const yrkesdata = data.filter(yrke => getFieldNumericValue(yrke, 'A') == inputs.ssyk)
@@ -165,7 +188,7 @@ const getMikrosegment = (inputs) => {
         andel_bytt_yrke_ovriga: getFieldNumericValue(m, 'DX')
     }
 
-    return Object.assign(yrke, getYrke(inputs.ssyk))
+    return Object.assign(yrke, getYrke(inputs.ssyk, true, lan))
 }
 
 module.exports.getYrke = getYrke

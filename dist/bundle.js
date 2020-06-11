@@ -24415,6 +24415,341 @@
   ]
   };
 
+  var lankommuner = {
+  	"Stockholms län": [
+  	"Upplands Väsby",
+  	"Vallentuna",
+  	"Österåker",
+  	"Värmdö",
+  	"Järfälla",
+  	"Ekerö",
+  	"Huddinge",
+  	"Botkyrka",
+  	"Salem",
+  	"Haninge",
+  	"Tyresö",
+  	"Upplands-Bro",
+  	"Nykvarn",
+  	"Täby",
+  	"Danderyd",
+  	"Sollentuna",
+  	"Stockholm",
+  	"Södertälje",
+  	"Nacka",
+  	"Sundbyberg",
+  	"Solna",
+  	"Lidingö",
+  	"Vaxholm",
+  	"Norrtälje",
+  	"Sigtuna",
+  	"Nynäshamn"
+  ],
+  	"Uppsala län": [
+  	"Håbo",
+  	"Älvkarleby",
+  	"Knivsta",
+  	"Heby",
+  	"Tierp",
+  	"Uppsala",
+  	"Enköping",
+  	"Östhammar"
+  ],
+  	"Södermanlands län": [
+  	"Vingåker",
+  	"Gnesta",
+  	"Nyköping",
+  	"Oxelösund",
+  	"Flen",
+  	"Katrineholm",
+  	"Eskilstuna",
+  	"Strängnäs",
+  	"Trosa"
+  ],
+  	"Östergötlands län": [
+  	"Ödeshög",
+  	"Ydre",
+  	"Kinda",
+  	"Boxholm",
+  	"Åtvidaberg",
+  	"Finspång",
+  	"Valdemarsvik",
+  	"Linköping",
+  	"Norrköping",
+  	"Söderköping",
+  	"Motala",
+  	"Vadstena",
+  	"Mjölby"
+  ],
+  	"Jönköpings län": [
+  	"Aneby",
+  	"Gnosjö",
+  	"Mullsjö",
+  	"Habo",
+  	"Gislaved",
+  	"Vaggeryd",
+  	"Jönköping",
+  	"Nässjö",
+  	"Värnamo",
+  	"Sävsjö",
+  	"Vetlanda",
+  	"Eksjö",
+  	"Tranås"
+  ],
+  	"Kronobergs län": [
+  	"Uppvidinge",
+  	"Lessebo",
+  	"Tingsryd",
+  	"Alvesta",
+  	"Älmhult",
+  	"Markaryd",
+  	"Växjö",
+  	"Ljungby"
+  ],
+  	"Kalmar län": [
+  	"Högsby",
+  	"Torsås",
+  	"Mörbylånga",
+  	"Hultsfred",
+  	"Mönsterås",
+  	"Emmaboda",
+  	"Kalmar",
+  	"Nybro",
+  	"Oskarshamn",
+  	"Västervik",
+  	"Vimmerby",
+  	"Borgholm"
+  ],
+  	"Gotlands län": [
+  	"Gotland"
+  ],
+  	"Blekinge län": [
+  	"Olofström",
+  	"Karlskrona",
+  	"Ronneby",
+  	"Karlshamn",
+  	"Sölvesborg"
+  ],
+  	"Skåne län": [
+  	"Svalöv",
+  	"Staffanstorp",
+  	"Burlöv",
+  	"Vellinge",
+  	"Östra Göinge",
+  	"Örkelljunga",
+  	"Bjuv",
+  	"Kävlinge",
+  	"Lomma",
+  	"Svedala",
+  	"Skurup",
+  	"Sjöbo",
+  	"Hörby",
+  	"Höör",
+  	"Tomelilla",
+  	"Bromölla",
+  	"Osby",
+  	"Perstorp",
+  	"Klippan",
+  	"Åstorp",
+  	"Båstad",
+  	"Malmö",
+  	"Lund",
+  	"Landskrona",
+  	"Helsingborg",
+  	"Höganäs",
+  	"Eslöv",
+  	"Ystad",
+  	"Trelleborg",
+  	"Kristianstad",
+  	"Simrishamn",
+  	"Ängelholm",
+  	"Hässleholm"
+  ],
+  	"Hallands län": [
+  	"Hylte",
+  	"Halmstad",
+  	"Laholm",
+  	"Falkenberg",
+  	"Varberg",
+  	"Kungsbacka"
+  ],
+  	"Västra Götalands län": [
+  	"Härryda",
+  	"Partille",
+  	"Öckerö",
+  	"Stenungsund",
+  	"Tjörn",
+  	"Orust",
+  	"Sotenäs",
+  	"Munkedal",
+  	"Tanum",
+  	"Dals-Ed",
+  	"Färgelanda",
+  	"Ale",
+  	"Lerum",
+  	"Vårgårda",
+  	"Bollebygd",
+  	"Grästorp",
+  	"Essunga",
+  	"Karlsborg",
+  	"Gullspång",
+  	"Tranemo",
+  	"Bengtsfors",
+  	"Mellerud",
+  	"Lilla Edet",
+  	"Mark",
+  	"Svenljunga",
+  	"Herrljunga",
+  	"Vara",
+  	"Götene",
+  	"Tibro",
+  	"Töreboda",
+  	"Göteborg",
+  	"Mölndal",
+  	"Kungälv",
+  	"Lysekil",
+  	"Uddevalla",
+  	"Strömstad",
+  	"Vänersborg",
+  	"Trollhättan",
+  	"Alingsås",
+  	"Borås",
+  	"Ulricehamn",
+  	"Åmål",
+  	"Mariestad",
+  	"Lidköping",
+  	"Skara",
+  	"Skövde",
+  	"Hjo",
+  	"Tidaholm",
+  	"Falköping"
+  ],
+  	"Värmlands län": [
+  	"Kil",
+  	"Eda",
+  	"Torsby",
+  	"Storfors",
+  	"Hammarö",
+  	"Munkfors",
+  	"Forshaga",
+  	"Grums",
+  	"Årjäng",
+  	"Sunne",
+  	"Karlstad",
+  	"Kristinehamn",
+  	"Filipstad",
+  	"Hagfors",
+  	"Arvika",
+  	"Säffle"
+  ],
+  	"Örebro län": [
+  	"Lekeberg",
+  	"Laxå",
+  	"Hallsberg",
+  	"Degerfors",
+  	"Hällefors",
+  	"Ljusnarsberg",
+  	"Örebro",
+  	"Kumla",
+  	"Askersund",
+  	"Karlskoga",
+  	"Nora",
+  	"Lindesberg"
+  ],
+  	"Västmanlands län": [
+  	"Skinnskatteberg",
+  	"Surahammar",
+  	"Kungsör",
+  	"Hallstahammar",
+  	"Norberg",
+  	"Västerås",
+  	"Sala",
+  	"Fagersta",
+  	"Köping",
+  	"Arboga"
+  ],
+  	"Dalarnas län": [
+  	"Vansbro",
+  	"Malung-Sälen",
+  	"Gagnef",
+  	"Leksand",
+  	"Rättvik",
+  	"Orsa",
+  	"Älvdalen",
+  	"Smedjebacken",
+  	"Mora",
+  	"Falun",
+  	"Borlänge",
+  	"Säter",
+  	"Hedemora",
+  	"Avesta",
+  	"Ludvika"
+  ],
+  	"Gävleborgs län": [
+  	"Ockelbo",
+  	"Hofors",
+  	"Ovanåker",
+  	"Nordanstig",
+  	"Ljusdal",
+  	"Gävle",
+  	"Sandviken",
+  	"Söderhamn",
+  	"Bollnäs",
+  	"Hudiksvall"
+  ],
+  	"Västernorrlands län": [
+  	"Ånge",
+  	"Timrå",
+  	"Härnösand",
+  	"Sundsvall",
+  	"Kramfors",
+  	"Sollefteå",
+  	"Örnsköldsvik"
+  ],
+  	"Jämtlands län": [
+  	"Ragunda",
+  	"Bräcke",
+  	"Krokom",
+  	"Strömsund",
+  	"Åre",
+  	"Berg",
+  	"Härjedalen",
+  	"Östersund"
+  ],
+  	"Västerbottens län": [
+  	"Nordmaling",
+  	"Bjurholm",
+  	"Vindeln",
+  	"Robertsfors",
+  	"Norsjö",
+  	"Malå",
+  	"Storuman",
+  	"Sorsele",
+  	"Dorotea",
+  	"Vännäs",
+  	"Vilhelmina",
+  	"Åsele",
+  	"Umeå",
+  	"Lycksele",
+  	"Skellefteå"
+  ],
+  	"Norrbottens län": [
+  	"Arvidsjaur",
+  	"Arjeplog",
+  	"Jokkmokk",
+  	"Överkalix",
+  	"Kalix",
+  	"Övertorneå",
+  	"Pajala",
+  	"Gällivare",
+  	"Älvsbyn",
+  	"Luleå",
+  	"Piteå",
+  	"Boden",
+  	"Haparanda",
+  	"Kiruna"
+  ]
+  };
+
   var utbildningar = [
   	{
   		FIELD1: "Yrkeshögskolan",
@@ -24605,6 +24940,387 @@
   	}
   ];
 
+  var utbildningar_geografi = [
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Blekinge län",
+  		FIELD3: "-filter=place&place=10&query=&sort=name",
+  		FIELD4: "10"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Dalarnas län",
+  		FIELD3: "-filter=place&place=16&query=&sort=name",
+  		FIELD4: "16"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Gotlands län",
+  		FIELD3: "-filter=place&place=9&query=&sort=name",
+  		FIELD4: "9"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Gävleborgs län",
+  		FIELD3: "-filter=place&place=17&query=&sort=name",
+  		FIELD4: "17"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Hallands län",
+  		FIELD3: "-filter=place&place=11&query=&sort=name",
+  		FIELD4: "11"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Jämtlands län",
+  		FIELD3: "-filter=place&place=19&query=&sort=name",
+  		FIELD4: "19"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Jönköpings län",
+  		FIELD3: "-filter=place&place=6&query=&sort=name",
+  		FIELD4: "6"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Kalmar län",
+  		FIELD3: "-filter=place&place=8&query=&sort=name",
+  		FIELD4: "8"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Kronobergs län",
+  		FIELD3: "-filter=place&place=7&query=&sort=name",
+  		FIELD4: "7"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Norrbottens län",
+  		FIELD3: "-filter=place&place=21&query=&sort=name",
+  		FIELD4: "21"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Skåne län",
+  		FIELD3: "-filter=place&place=1&query=&sort=name",
+  		FIELD4: "1"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Stockholms län",
+  		FIELD3: "-filter=place&place=2&query=&sort=name",
+  		FIELD4: "2"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Södermanlands län",
+  		FIELD3: "-filter=place&place=4&query=&sort=name",
+  		FIELD4: "4"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Uppsala län",
+  		FIELD3: "-filter=place&place=3&query=&sort=name",
+  		FIELD4: "3"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Värmlands län",
+  		FIELD3: "-filter=place&place=13&query=&sort=name",
+  		FIELD4: "13"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Västerbottens län",
+  		FIELD3: "-filter=place&place=20&query=&sort=name",
+  		FIELD4: "20"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Västernorrlands län",
+  		FIELD3: "-filter=place&place=18&query=&sort=name",
+  		FIELD4: "18"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Västmanlands län",
+  		FIELD3: "-filter=place&place=15&query=&sort=name",
+  		FIELD4: "15"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Västra Götalands län",
+  		FIELD3: "-filter=place&place=12&query=&sort=name",
+  		FIELD4: "12"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Örebro län",
+  		FIELD3: "-filter=place&place=14&query=&sort=name",
+  		FIELD4: "14"
+  	},
+  	{
+  		FIELD1: "Yrkeshögskolan",
+  		FIELD2: "Östergötlands län",
+  		FIELD3: "-filter=place&place=5&query=&sort=name",
+  		FIELD4: "5"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Blekinge län",
+  		FIELD3: "adress=Blekinge+län",
+  		FIELD4: "Blekinge"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Dalarnas län",
+  		FIELD3: "adress=Dalarnas+län",
+  		FIELD4: "Dalarna"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Gotlands län",
+  		FIELD3: "adress=Gotlands+län",
+  		FIELD4: "Gotland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Gävleborgs län",
+  		FIELD3: "adress=Gävleborgs+län",
+  		FIELD4: "Gävleborg"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Hallands län",
+  		FIELD3: "adress=Hallands+län",
+  		FIELD4: "Halland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Jämtlands län",
+  		FIELD3: "adress=Jämtlands+län",
+  		FIELD4: "Jämtland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Jönköpings län",
+  		FIELD3: "adress=Jönköpings+län",
+  		FIELD4: "Jönköping"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Kalmar län",
+  		FIELD3: "adress=Kalmar+län",
+  		FIELD4: "Kalmar"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Kronobergs län",
+  		FIELD3: "adress=Kronobergs+län",
+  		FIELD4: "Kronoberg"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Norrbottens län",
+  		FIELD3: "adress=Norrbottens+län",
+  		FIELD4: "Norrbotten"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Skåne län",
+  		FIELD3: "adress=Skåne+län",
+  		FIELD4: "Skåne"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Stockholms län",
+  		FIELD3: "adress=Stockholm+län",
+  		FIELD4: "Stockholm"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Södermanlands län",
+  		FIELD3: "adress=Södermanlands+län",
+  		FIELD4: "Södermanland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Uppsala län",
+  		FIELD3: "adress=Uppsala+län",
+  		FIELD4: "Uppsala"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Värmlands län",
+  		FIELD3: "adress=Värmlands+län",
+  		FIELD4: "Värmland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Västerbottens län",
+  		FIELD3: "adress=Västerbottens+län",
+  		FIELD4: "Västerbotten"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Västernorrlands län",
+  		FIELD3: "adress=Västernorrlands+län",
+  		FIELD4: "Västernorrland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Västmanlands län",
+  		FIELD3: "adress=Västmanlands+län",
+  		FIELD4: "Västmanland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Västra Götalands län",
+  		FIELD3: "adress=Västra+Götalands+län",
+  		FIELD4: "Västra Götaland"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Örebro län",
+  		FIELD3: "adress=Örebro+län",
+  		FIELD4: "Örebro"
+  	},
+  	{
+  		FIELD1: "AUB",
+  		FIELD2: "Östergötlands län",
+  		FIELD3: "adress=Östergötlands+län",
+  		FIELD4: "Östergötland"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Blekinge län",
+  		FIELD3: "-blekinge-lan/a323-c3190-d99262",
+  		FIELD4: "-d99262"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Dalarnas län",
+  		FIELD3: "-dalarnas-lan/a323-c3190-d99271",
+  		FIELD4: "-d99271"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Gotlands län",
+  		FIELD3: "-",
+  		FIELD4: "-"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Gävleborgs län",
+  		FIELD3: "-gavleborgs-lan/a323-c3190-d99299",
+  		FIELD4: "d99299"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Hallands län",
+  		FIELD3: "-hallands-lan/a323-c3190-d99312",
+  		FIELD4: "d99312"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Jämtlands län",
+  		FIELD3: "-jamtlands-lan/a323-c3190-d99322",
+  		FIELD4: "d99322"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Jönköpings län",
+  		FIELD3: "-jonkopings-lan/a323-c3190-d99334",
+  		FIELD4: "d99334"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Kalmar län",
+  		FIELD3: "-kalmar-lan/a323-c3190-d99354",
+  		FIELD4: "d99354"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Kronobergs län",
+  		FIELD3: "-kronobergs-lan/a323-c3190-d99367",
+  		FIELD4: "d99367"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Norrbottens län",
+  		FIELD3: "-norrbottens-lan/a323-c3190-d99380",
+  		FIELD4: "d99380"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Skåne län",
+  		FIELD3: "-skane-lan/a323-c3190-d99396",
+  		FIELD4: "d99396"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Stockholms län",
+  		FIELD3: "-stockholms-lan/a323-c3190-d99441",
+  		FIELD4: "d99441"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Södermanlands län",
+  		FIELD3: "-",
+  		FIELD4: "-"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Uppsala län",
+  		FIELD3: "-uppsala-lan/a323-c3190-d99511",
+  		FIELD4: "d99511"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Värmlands län",
+  		FIELD3: "-varmlands-lan/a323-c3190-d99521",
+  		FIELD4: "d99521"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Västerbottens län",
+  		FIELD3: "-vasterbottens-lan/a323-c3190-d99540",
+  		FIELD4: "d99540"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Västernorrlands län",
+  		FIELD3: "-vasternorrlands-lan/a323-c3190-d99559",
+  		FIELD4: "d99559"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Västmanlands län",
+  		FIELD3: "-vastmanlands-lan/a323-c3190-d99570",
+  		FIELD4: "d99570"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Västra Götalands län",
+  		FIELD3: "-vastra-gotalands-lan/a323-c3190-d99581",
+  		FIELD4: "d99581"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Örebro län",
+  		FIELD3: "-orebro-lan/a323-c3190-d99643",
+  		FIELD4: "d99643"
+  	},
+  	{
+  		FIELD1: "Komvux",
+  		FIELD2: "Östergötlands län",
+  		FIELD3: "-ostergotlands-lan/a323-c3190-d99659",
+  		FIELD4: "d99659"
+  	}
+  ];
+
   var classify = function classify(point, centroids) {
     var min = Infinity,
         index = 0;
@@ -24659,20 +25375,41 @@
   };
 
   var getUtbildningar = function getUtbildningar(ssyk) {
+    var lan = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : false;
     // Get utbildningar
     var utb = utbildningar.filter(function (u) {
       return getFieldNumericValue(u, 'D') == ssyk;
     });
+
+    var buildUtbildningLank = function buildUtbildningLank(utbildningstyp, lank) {
+      if (lan && utbildningstyp != "Komvux") {
+        var geo = utbildningar_geografi.filter(function (u) {
+          return getFieldStringValue(u, 'B') == lan && getFieldStringValue(u, 'A') == utbildningstyp;
+        }).pop();
+
+        if (geo) {
+          var suffix = getFieldStringValue(geo, 'C');
+
+          if (suffix.length > 1) {
+            lank += suffix;
+          }
+        }
+      }
+
+      return lank;
+    };
+
     return utb.map(function (u) {
       return {
         utbildningstyp: getFieldStringValue(u, 'A'),
-        lank: getFieldStringValue(u, 'I')
+        lank: buildUtbildningLank(getFieldStringValue(u, 'A'), getFieldStringValue(u, 'I'))
       };
     });
   };
 
   var getYrke = function getYrke(ssyk) {
     var withRelated = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
+    var lan = arguments.length > 2 ? arguments[2] : undefined;
     // Get selected yrke
     var yrke = yrken.filter(function (yrke) {
       return getFieldNumericValue(yrke, 'A') == ssyk;
@@ -24689,7 +25426,7 @@
       forvantad_automatisering_klass: getFieldStringValue(yrkesdata, 'DH'),
       mobilitetsindex: getFieldNumericValue(yrkesdata, 'DI'),
       konkurrens: null,
-      utbildningar: getUtbildningar(ssyk)
+      utbildningar: getUtbildningar(ssyk, lan)
     }; // Check for konkurrens
 
     if (konkurrens.hasOwnProperty(ssyk)) {
@@ -24708,7 +25445,11 @@
   };
 
   var getMikrosegment = function getMikrosegment(inputs) {
-    // Get selected yrkes
+    // Find län from kommun
+    var lan = Object.keys(lankommuner).filter(function (key) {
+      return lankommuner[key].includes(inputs.kommun);
+    }).pop(); // Get selected yrkes
+
     var yrkesdata = data.filter(function (yrke) {
       return getFieldNumericValue(yrke, 'A') == inputs.ssyk;
     }); // Fetch means and deviations, 
@@ -24766,7 +25507,7 @@
       }, getYrke(getFieldNumericValue(m, 'DT'), false))],
       andel_bytt_yrke_ovriga: getFieldNumericValue(m, 'DX')
     };
-    return Object.assign(yrke, getYrke(inputs.ssyk));
+    return Object.assign(yrke, getYrke(inputs.ssyk, true, lan));
   };
 
   module.exports.getYrke = getYrke;
