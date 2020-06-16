@@ -1,6 +1,6 @@
 {
   "name": "mikrosegmentering",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "`npm install team-vagledning/mikrosegmentering`",
   "main": "dist/bundle.js",
   "scripts": {
