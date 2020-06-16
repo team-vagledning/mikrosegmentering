@@ -23993,426 +23993,3536 @@
   };
 
   var konkurrens = {
-  	"21": [
-  	{
-  		value: 4.25,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.17,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"22": [
-  	{
-  		value: 4.55,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.51,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"23": [
-  	{
-  		value: 4.43,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.47,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"24": [
-  	{
-  		value: 3.12,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.03,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"25": [
-  	{
-  		value: 4.85,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.57,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"26": [
-  	{
-  		value: 3.44,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.36,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"31": [
-  	{
-  		value: 4.54,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.39,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"32": [
-  	{
-  		value: 4.02,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.82,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"33": [
-  	{
-  		value: 3.51,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.35,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"34": [
-  	{
-  		value: 3.18,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.42,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"35": [
-  	{
-  		value: 3.54,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.69,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"41": [
-  	{
-  		value: 2.84,
-  		text: "Hård konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.53,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"42": [
-  	{
-  		value: 2.95,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.72,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"43": [
-  	{
-  		value: 3.08,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.97,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"44": [
-  	{
-  		value: 2.52,
-  		text: "Hård konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.83,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"51": [
-  	{
-  		value: 4.06,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.93,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"52": [
-  	{
-  		value: 2.67,
-  		text: "Hård konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.26,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"53": [
-  	{
-  		value: 3.74,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.74,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"54": [
-  	{
-  		value: 3.72,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.54,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"61": [
-  	{
-  		value: 3.66,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.47,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"62": [
-  	{
-  		value: 3.62,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.47,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"71": [
-  	{
-  		value: 4.17,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.27,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"72": [
-  	{
-  		value: 4.25,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.3,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"73": [
-  	{
-  		value: 3.1,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.02,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"74": [
-  	{
-  		value: 4.24,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.31,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"75": [
-  	{
-  		value: 3.31,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.8,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"76": [
-  	{
-  		value: 3.96,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.98,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"81": [
-  	{
-  		value: 3.42,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.43,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"82": [
-  	{
-  		value: 3.35,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.28,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"83": [
-  	{
-  		value: 4.26,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 4.17,
-  		text: "Väldigt liten konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"91": [
-  	{
-  		value: 3.44,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.29,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"93": [
-  	{
-  		value: 2.65,
-  		text: "Hård konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.68,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"94": [
-  	{
-  		value: 3.23,
-  		text: "Måttlig konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.08,
-  		text: "Måttlig konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"96": [
-  	{
-  		value: 2.78,
-  		text: "Hård konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 2.65,
-  		text: "Hård konkurrens",
-  		omfattning: 5
-  	}
-  ],
-  	"03": [
-  	{
-  		value: 3.95,
-  		text: "Liten konkurrens",
-  		omfattning: 1
-  	},
-  	{
-  		value: 3.81,
-  		text: "Liten konkurrens",
-  		omfattning: 5
-  	}
-  ]
+  	"21": {
+  	aggregerat: [
+  		{
+  			value: 4.25,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.17,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Civilingenjörsyrken inom bygg och anläggning",
+  			konkurrens: [
+  				{
+  					value: 4.75,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.67,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Grafisk formgivare",
+  			konkurrens: [
+  				{
+  					value: 2,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.19,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kemister",
+  			konkurrens: [
+  				{
+  					value: 3.21,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.17,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Civilingenjörsyrken inom logistik och produktionsplanering",
+  			konkurrens: [
+  				{
+  					value: 4.36,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.25,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Civilingenjörsyrken inom elektroteknik",
+  			konkurrens: [
+  				{
+  					value: 4.8,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.56,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Civilingenjörsyrken inom maskinteknik",
+  			konkurrens: [
+  				{
+  					value: 4.51,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.51,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Civilingenjörsyrken inom kemi och kemiteknik",
+  			konkurrens: [
+  				{
+  					value: 4.15,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Arkitekter och lantmätare",
+  			konkurrens: [
+  				{
+  					value: 3.94,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Miljö- och hälsoskyddsinspektörer",
+  			konkurrens: [
+  				{
+  					value: 3.56,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.38,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"22": {
+  	aggregerat: [
+  		{
+  			value: 4.55,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.52,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Läkare",
+  			konkurrens: [
+  				{
+  					value: 4.39,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.59,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Grundutbildade sjuksköterskor",
+  			konkurrens: [
+  				{
+  					value: 4.75,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.65,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Barnmorskor",
+  			konkurrens: [
+  				{
+  					value: 4.49,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.58,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Röntgensjuksköterskor",
+  			konkurrens: [
+  				{
+  					value: 4.66,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.58,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Psykologer",
+  			konkurrens: [
+  				{
+  					value: 4.27,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.2,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Veterinärer",
+  			konkurrens: [
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.59,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tandläkare",
+  			konkurrens: [
+  				{
+  					value: 4.35,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.3,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fysioterapeuter (sjukgymnaster)",
+  			konkurrens: [
+  				{
+  					value: 3.99,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.91,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Arbetsterapeuter",
+  			konkurrens: [
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Apotekare",
+  			konkurrens: [
+  				{
+  					value: 3.82,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.93,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom akut hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.89,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.74,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom akut hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.89,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.74,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom akut hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.89,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.74,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom akut hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.89,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.74,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Specialistsjuksköterskor inom allmän hälso- och sjukvård",
+  			konkurrens: [
+  				{
+  					value: 4.82,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.73,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"23": {
+  	aggregerat: [
+  		{
+  			value: 4.43,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.47,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Universitets- och högskollärare",
+  			konkurrens: [
+  				{
+  					value: 3.64,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.56,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Lärare i yrkesämnen",
+  			konkurrens: [
+  				{
+  					value: 4.67,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.51,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Gymnasielärare",
+  			konkurrens: [
+  				{
+  					value: 4.2,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.41,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Grundskollärare",
+  			konkurrens: [
+  				{
+  					value: 4.52,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.65,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fritidspedagoger",
+  			konkurrens: [
+  				{
+  					value: 4.15,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.26,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Förskollärare",
+  			konkurrens: [
+  				{
+  					value: 4.81,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.75,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Speciallärare och specialpedagoger",
+  			konkurrens: [
+  				{
+  					value: 4.77,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.67,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Studie- och yrkesvägledare",
+  			konkurrens: [
+  				{
+  					value: 3.67,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.72,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"24": {
+  	aggregerat: [
+  		{
+  			value: 3.12,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.03,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Revisorer",
+  			konkurrens: [
+  				{
+  					value: 3.8,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Controller",
+  			konkurrens: [
+  				{
+  					value: 3.85,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.48,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Finansanalytiker och investeringsrådgivare",
+  			konkurrens: [
+  				{
+  					value: 2.72,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.64,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Lednings- och organisationsutvecklare",
+  			konkurrens: [
+  				{
+  					value: 3.06,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.22,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Utredare och handläggare",
+  			konkurrens: [
+  				{
+  					value: 3.04,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.11,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Personal- och HR-specialister",
+  			konkurrens: [
+  				{
+  					value: 3.09,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.95,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Informatörer, kommunikatörer och PR-specialister",
+  			konkurrens: [
+  				{
+  					value: 2.74,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.35,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Marknadsanalytiker och marknadsförare",
+  			konkurrens: [
+  				{
+  					value: 3.02,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.93,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"25": {
+  	aggregerat: [
+  		{
+  			value: 4.85,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.57,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Systemanalytiker och IT-arkitekter",
+  			konkurrens: [
+  				{
+  					value: 4.84,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.61,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Mjukvaru- och systemutvecklare",
+  			konkurrens: [
+  				{
+  					value: 4.88,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.63,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Systemtestare och testledare",
+  			konkurrens: [
+  				{
+  					value: 4.72,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.37,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Systemförvaltare",
+  			konkurrens: [
+  				{
+  					value: 4.61,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.01,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"26": {
+  	aggregerat: [
+  		{
+  			value: 3.44,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.36,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Jurister",
+  			konkurrens: [
+  				{
+  					value: 3.7,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.17,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Bibliotekarier och arkivarier",
+  			konkurrens: [
+  				{
+  					value: 2.91,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.9,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Journalister",
+  			konkurrens: [
+  				{
+  					value: 2,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tolkar",
+  			konkurrens: [
+  				{
+  					value: 3.79,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.94,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Musiker, sångare och kompositörer",
+  			konkurrens: [
+  				{
+  					value: 2,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.56,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Socialsekreterare",
+  			konkurrens: [
+  				{
+  					value: 4.12,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.28,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kuratorer",
+  			konkurrens: [
+  				{
+  					value: 3.56,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.87,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Biståndsbedömare",
+  			konkurrens: [
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.02,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"31": {
+  	aggregerat: [
+  		{
+  			value: 4.54,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.39,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Ingenjörer och tekniker inom bygg och anläggning",
+  			konkurrens: [
+  				{
+  					value: 4.7,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.58,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ingenjörer och tekniker inom industri, logistik och produktionsplanering",
+  			konkurrens: [
+  				{
+  					value: 4.21,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.29,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ingenjörer och tekniker inom elektroteknik",
+  			konkurrens: [
+  				{
+  					value: 4.6,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.32,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ingenjörer och tekniker inom maskinteknik",
+  			konkurrens: [
+  				{
+  					value: 4.47,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.37,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ingenjörer och tekniker inom kemi och kemiteknik",
+  			konkurrens: [
+  				{
+  					value: 4.34,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.95,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"32": {
+  	aggregerat: [
+  		{
+  			value: 4.02,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.82,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Biomedicinska analytiker",
+  			konkurrens: [
+  				{
+  					value: 4.47,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.07,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Receptarier",
+  			konkurrens: [
+  				{
+  					value: 3.74,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tandhygienister",
+  			konkurrens: [
+  				{
+  					value: 4.31,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.01,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tandtekniker och ortopedingenjörer",
+  			konkurrens: [
+  				{
+  					value: 3.81,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.7,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Laboratorieingenjörer",
+  			konkurrens: [
+  				{
+  					value: 3.59,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.47,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"33": {
+  	aggregerat: [
+  		{
+  			value: 3.51,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.35,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Redovisningsekonomer",
+  			konkurrens: [
+  				{
+  					value: 3.73,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Skadereglerare och värderare",
+  			konkurrens: [
+  				{
+  					value: 3.28,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.27,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Försäkringssäljare och försäkringsrådgivare",
+  			konkurrens: [
+  				{
+  					value: 3.28,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.14,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Chefssekreterare och VD-assistenter",
+  			konkurrens: [
+  				{
+  					value: 2.98,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.53,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Skattehandläggare",
+  			konkurrens: [
+  				{
+  					value: 3.06,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.97,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Socialförsäkringshandläggare",
+  			konkurrens: [
+  				{
+  					value: 3.31,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Banktjänstemän",
+  			konkurrens: [
+  				{
+  					value: 2.33,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.49,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Företagssäljare",
+  			konkurrens: [
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.68,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Inköpare och upphandlare",
+  			konkurrens: [
+  				{
+  					value: 3.84,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.34,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ordersamordnare",
+  			konkurrens: [
+  				{
+  					value: 3.05,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.97,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Speditörer och transportmäklare",
+  			konkurrens: [
+  				{
+  					value: 3.44,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.42,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fastighetsmäklare",
+  			konkurrens: [
+  				{
+  					value: 2.88,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.73,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Säkerhetsinspektörer",
+  			konkurrens: [
+  				{
+  					value: 3.43,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Poliser",
+  			konkurrens: [
+  				{
+  					value: 3.89,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fastighetsförvaltare",
+  			konkurrens: [
+  				{
+  					value: 3.35,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"34": {
+  	aggregerat: [
+  		{
+  			value: 3.18,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.42,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Fotografer",
+  			konkurrens: [
+  				{
+  					value: 1,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.57,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Behandlingsassistenter och socialpedagoger",
+  			konkurrens: [
+  				{
+  					value: 3.43,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.8,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fritidsledare",
+  			konkurrens: [
+  				{
+  					value: 3.17,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.15,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"35": {
+  	aggregerat: [
+  		{
+  			value: 3.54,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.69,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Drifttekniker, IT",
+  			konkurrens: [
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.75,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Supporttekniker, IT",
+  			konkurrens: [
+  				{
+  					value: 3.36,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.66,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Systemadministratörer",
+  			konkurrens: [
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Nätverks- och systemtekniker",
+  			konkurrens: [
+  				{
+  					value: 3.36,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.74,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"41": {
+  	aggregerat: [
+  		{
+  			value: 2.84,
+  			text: "Hård konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.53,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Ekonomiassistenter",
+  			konkurrens: [
+  				{
+  					value: 2.75,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.65,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Löne- och personaladministratörer",
+  			konkurrens: [
+  				{
+  					value: 3.21,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.09,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Skolassistenter",
+  			konkurrens: [
+  				{
+  					value: 2.89,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.78,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Medicinska sekreterare och vårdadministratörer",
+  			konkurrens: [
+  				{
+  					value: 4.11,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kontorsassistenter och sekreterare",
+  			konkurrens: [
+  				{
+  					value: 2.53,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.99,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Marknads- och försäljningsassistenter",
+  			konkurrens: [
+  				{
+  					value: 2.82,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.52,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Inköps- och orderassistenter",
+  			konkurrens: [
+  				{
+  					value: 2.73,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.62,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"42": {
+  	aggregerat: [
+  		{
+  			value: 2.95,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.72,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Telefonister",
+  			konkurrens: [
+  				{
+  					value: 2.45,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.99,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kontorsreceptionister",
+  			konkurrens: [
+  				{
+  					value: 2.65,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.99,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Resesäljare och trafikassistenter",
+  			konkurrens: [
+  				{
+  					value: 2.81,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.67,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kundtjänstpersonal",
+  			konkurrens: [
+  				{
+  					value: 3.15,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.13,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Hotellreceptionister",
+  			konkurrens: [
+  				{
+  					value: 3.1,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.89,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"43": {
+  	aggregerat: [
+  		{
+  			value: 3.08,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.97,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Lager- och terminalpersonal",
+  			konkurrens: [
+  				{
+  					value: 3.01,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.92,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Transportledare och transportsamordnare",
+  			konkurrens: [
+  				{
+  					value: 3.71,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.46,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"44": {
+  	aggregerat: [
+  		{
+  			value: 2.52,
+  			text: "Hård konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.83,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Brevbärare och postterminalarbetare",
+  			konkurrens: [
+  				{
+  					value: 2.52,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.83,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"51": {
+  	aggregerat: [
+  		{
+  			value: 4.06,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.93,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Kockar och kallskänkor",
+  			konkurrens: [
+  				{
+  					value: 4.69,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.71,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Hovmästare och servitörer",
+  			konkurrens: [
+  				{
+  					value: 3.99,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.94,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Bartendrar",
+  			konkurrens: [
+  				{
+  					value: 3.67,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.44,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fastighetsskötare",
+  			konkurrens: [
+  				{
+  					value: 3.76,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.48,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Frisörer",
+  			konkurrens: [
+  				{
+  					value: 3.28,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.11,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Hudterapeuter",
+  			konkurrens: [
+  				{
+  					value: 3.07,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.95,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Massörer och massageterapeuter",
+  			konkurrens: [
+  				{
+  					value: 3,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.83,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Fotterapeuter",
+  			konkurrens: [
+  				{
+  					value: 3.2,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.3,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tågvärdar och ombordansvariga",
+  			konkurrens: [
+  				{
+  					value: 3.64,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.21,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"52": {
+  	aggregerat: [
+  		{
+  			value: 2.67,
+  			text: "Hård konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.26,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Butikssäljare, dagligvaror",
+  			konkurrens: [
+  				{
+  					value: 2.69,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.99,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Butikssäljare, fackhandel",
+  			konkurrens: [
+  				{
+  					value: 2.63,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.39,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Bensinstationspersonal",
+  			konkurrens: [
+  				{
+  					value: 2.88,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.59,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Apotekstekniker",
+  			konkurrens: [
+  				{
+  					value: 3.02,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.22,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kassapersonal",
+  			konkurrens: [
+  				{
+  					value: 2.27,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 1.99,
+  					text: "Väldigt hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Telefonförsäljare",
+  			konkurrens: [
+  				{
+  					value: 3.57,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"53": {
+  	aggregerat: [
+  		{
+  			value: 3.74,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.74,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Undersköterskor, hemtjänst och äldreboende",
+  			konkurrens: [
+  				{
+  					value: 4.25,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.45,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Undersköterskor, vårdavdelning och mottagning",
+  			konkurrens: [
+  				{
+  					value: 3.72,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Vårdbiträden",
+  			konkurrens: [
+  				{
+  					value: 3.33,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.14,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Skötare",
+  			konkurrens: [
+  				{
+  					value: 3.54,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.61,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tandsköterskor",
+  			konkurrens: [
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.91,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Elevassistenter",
+  			konkurrens: [
+  				{
+  					value: 3.17,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.08,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Barnskötare",
+  			konkurrens: [
+  				{
+  					value: 3.32,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.42,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Vårdare och boendestödjare",
+  			konkurrens: [
+  				{
+  					value: 3.78,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.49,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Personliga assistenter",
+  			konkurrens: [
+  				{
+  					value: 3.96,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.82,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"54": {
+  	aggregerat: [
+  		{
+  			value: 3.72,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.54,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Brandmän",
+  			konkurrens: [
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.07,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kriminalvårdare",
+  			konkurrens: [
+  				{
+  					value: 3.73,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.81,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Väktare och ordningsvakter",
+  			konkurrens: [
+  				{
+  					value: 3.85,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.57,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"61": {
+  	aggregerat: [
+  		{
+  			value: 3.66,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.47,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Odlare av jordbruksväxter, frukt och bär",
+  			konkurrens: [
+  				{
+  					value: 3.44,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.18,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Trädgårdsanläggare",
+  			konkurrens: [
+  				{
+  					value: 3.6,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Uppfödare och skötare av lantbrukets husdjur",
+  			konkurrens: [
+  				{
+  					value: 3.89,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.7,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Växtodlare och djuruppfödare med blandad drift",
+  			konkurrens: [
+  				{
+  					value: 3.62,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.46,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"62": {
+  	aggregerat: [
+  		{
+  			value: 3.62,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.47,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Skogsarbetare",
+  			konkurrens: [
+  				{
+  					value: 3.62,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.47,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"71": {
+  	aggregerat: [
+  		{
+  			value: 4.17,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.27,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Träarbetare och snickare",
+  			konkurrens: [
+  				{
+  					value: 4.1,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.34,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Murare",
+  			konkurrens: [
+  				{
+  					value: 4.14,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.35,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Betongarbetare",
+  			konkurrens: [
+  				{
+  					value: 4.26,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.39,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Anläggningsarbetare",
+  			konkurrens: [
+  				{
+  					value: 4.25,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.26,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Ställningsbyggare",
+  			konkurrens: [
+  				{
+  					value: 4.02,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Takmontörer",
+  			konkurrens: [
+  				{
+  					value: 4.03,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.21,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Golvläggare",
+  			konkurrens: [
+  				{
+  					value: 4.3,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.33,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "VVS-montörer",
+  			konkurrens: [
+  				{
+  					value: 4.6,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.55,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kyl- och värmepumpstekniker",
+  			konkurrens: [
+  				{
+  					value: 4.48,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.31,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Målare",
+  			konkurrens: [
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Saneringsarbetare",
+  			konkurrens: [
+  				{
+  					value: 3.45,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.33,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Lackerare och industrimålare",
+  			konkurrens: [
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"72": {
+  	aggregerat: [
+  		{
+  			value: 4.25,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.3,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Byggnads- och ventilationsplåtslagare",
+  			konkurrens: [
+  				{
+  					value: 4.45,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.49,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Motorfordonsmekaniker och fordonsreparatörer",
+  			konkurrens: [
+  				{
+  					value: 4.49,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.43,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Underhållsmekaniker och maskinreparatörer",
+  			konkurrens: [
+  				{
+  					value: 4.39,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.3,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Svetsare och gasskärare",
+  			konkurrens: [
+  				{
+  					value: 4.09,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.16,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Tunnplåtslagare",
+  			konkurrens: [
+  				{
+  					value: 4.37,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.28,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Smeder",
+  			konkurrens: [
+  				{
+  					value: 3.97,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.98,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinställare och maskinoperatörer inom metallarbete",
+  			konkurrens: [
+  				{
+  					value: 4.05,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.25,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"73": {
+  	aggregerat: [
+  		{
+  			value: 3.1,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.02,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Finmekaniker",
+  			konkurrens: [
+  				{
+  					value: 3.94,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.76,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Prepresstekniker, tryckare och bokbindare",
+  			konkurrens: [
+  				{
+  					value: 2.8,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.76,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"74": {
+  	aggregerat: [
+  		{
+  			value: 4.24,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.31,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Installations- och serviceelektriker",
+  			konkurrens: [
+  				{
+  					value: 4.34,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.46,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Industrielektriker",
+  			konkurrens: [
+  				{
+  					value: 4.31,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.37,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Distributionselektriker",
+  			konkurrens: [
+  				{
+  					value: 4.29,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.1,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Elektronikreparatörer och kommunikationselektriker",
+  			konkurrens: [
+  				{
+  					value: 3.89,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.88,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"75": {
+  	aggregerat: [
+  		{
+  			value: 3.31,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.8,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Fin-, inrednings- och möbelsnickare",
+  			konkurrens: [
+  				{
+  					value: 3.31,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.72,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinsnickare och maskinoperatörer inom träindustri",
+  			konkurrens: [
+  				{
+  					value: 3.31,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.85,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"76": {
+  	aggregerat: [
+  		{
+  			value: 3.96,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.98,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Slaktare och styckare",
+  			konkurrens: [
+  				{
+  					value: 4.15,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.14,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Bagare och konditorer",
+  			konkurrens: [
+  				{
+  					value: 3.81,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.85,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"81": {
+  	aggregerat: [
+  		{
+  			value: 3.42,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.43,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Drifttekniker vid värme- och vattenverk",
+  			konkurrens: [
+  				{
+  					value: 3.84,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.68,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Processövervakare inom kemisk industri",
+  			konkurrens: [
+  				{
+  					value: 3.77,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.63,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Processövervakare inom metallproduktion",
+  			konkurrens: [
+  				{
+  					value: 3.5,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.5,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Malmförädlingsyrken och brunnsborrare",
+  			konkurrens: [
+  				{
+  					value: 3.93,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.56,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Process- och maskinoperatörer, stål- och metallverk",
+  			konkurrens: [
+  				{
+  					value: 3.21,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.47,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinoperatörer, kemiska och farmaceutiska produkter",
+  			konkurrens: [
+  				{
+  					value: 3.35,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinoperatörer, gummi-, plast- och pappersvaruindustri",
+  			konkurrens: [
+  				{
+  					value: 3.59,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.49,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinoperatörer, textil-, tvätt- och läderindustri",
+  			konkurrens: [
+  				{
+  					value: 3.06,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.26,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinoperatörer, livsmedelsindustri",
+  			konkurrens: [
+  				{
+  					value: 3.19,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.24,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Processoperatörer, trä- och pappersindustri",
+  			konkurrens: [
+  				{
+  					value: 3.31,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.37,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Maskinoperatörer inom påfyllning, packning och märkning",
+  			konkurrens: [
+  				{
+  					value: 3.08,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.03,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"82": {
+  	aggregerat: [
+  		{
+  			value: 3.35,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.28,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Fordonsmontörer",
+  			konkurrens: [
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Montörer av elektrisk och elektronisk utrustning",
+  			konkurrens: [
+  				{
+  					value: 3.53,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Montörer av metall-, gummi- och plastprodukter",
+  			konkurrens: [
+  				{
+  					value: 3.07,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.14,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Montörer av träprodukter",
+  			konkurrens: [
+  				{
+  					value: 3.25,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.14,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"83": {
+  	aggregerat: [
+  		{
+  			value: 4.26,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 4.17,
+  			text: "Väldigt liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Anläggningsmaskinförare",
+  			konkurrens: [
+  				{
+  					value: 4.37,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.29,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Förare av jordbruks- och skogsmaskiner",
+  			konkurrens: [
+  				{
+  					value: 4.33,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.01,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Lokförare",
+  			konkurrens: [
+  				{
+  					value: 4.47,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.96,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Taxiförare",
+  			konkurrens: [
+  				{
+  					value: 3.69,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.7,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Buss- och spårvagnsförare",
+  			konkurrens: [
+  				{
+  					value: 4.23,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.23,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Lastbilsförare",
+  			konkurrens: [
+  				{
+  					value: 4.51,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 4.47,
+  					text: "Väldigt liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Truckförare",
+  			konkurrens: [
+  				{
+  					value: 3.41,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.08,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"91": {
+  	aggregerat: [
+  		{
+  			value: 3.44,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.29,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Städare",
+  			konkurrens: [
+  				{
+  					value: 3.44,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"93": {
+  	aggregerat: [
+  		{
+  			value: 2.65,
+  			text: "Hård konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.68,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Grovarbetare inom bygg och anläggning",
+  			konkurrens: [
+  				{
+  					value: 2.99,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.07,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Handpaketerare",
+  			konkurrens: [
+  				{
+  					value: 2.46,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.45,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"94": {
+  	aggregerat: [
+  		{
+  			value: 3.23,
+  			text: "Måttlig konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.08,
+  			text: "Måttlig konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Pizzabagare",
+  			konkurrens: [
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.27,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Restaurang- och köksbiträden",
+  			konkurrens: [
+  				{
+  					value: 3.28,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.09,
+  					text: "Måttlig konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Kafé- och konditoribiträden",
+  			konkurrens: [
+  				{
+  					value: 2.74,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.84,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"96": {
+  	aggregerat: [
+  		{
+  			value: 2.78,
+  			text: "Hård konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 2.65,
+  			text: "Hård konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Vaktmästare",
+  			konkurrens: [
+  				{
+  					value: 2.16,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.25,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Renhållnings- och återvinningsarbetare",
+  			konkurrens: [
+  				{
+  					value: 3.29,
+  					text: "Måttlig konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.89,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		},
+  		{
+  			namn: "Reklamutdelare och tidningsdistributörer",
+  			konkurrens: [
+  				{
+  					value: 2.74,
+  					text: "Hård konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 2.76,
+  					text: "Hård konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  },
+  	"03": {
+  	aggregerat: [
+  		{
+  			value: 3.95,
+  			text: "Liten konkurrens",
+  			omfattning: 1
+  		},
+  		{
+  			value: 3.81,
+  			text: "Liten konkurrens",
+  			omfattning: 5
+  		}
+  	],
+  	detaljerat: [
+  		{
+  			namn: "Soldater",
+  			konkurrens: [
+  				{
+  					value: 3.95,
+  					text: "Liten konkurrens",
+  					omfattning: 1
+  				},
+  				{
+  					value: 3.81,
+  					text: "Liten konkurrens",
+  					omfattning: 5
+  				}
+  			]
+  		}
+  	]
+  }
   };
 
   var lankommuner = {
