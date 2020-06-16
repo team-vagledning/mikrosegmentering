@@ -130,14 +130,14 @@ const getMikrosegment = (inputs) => {
     // Fetch means and deviations, 
     // there're the same for all clusters of the same yrke
     const means = {
-        medelalder: getFieldNumericValue(yrkesdata[0], 'DH'),
-        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DI'),
-        bosatt: getFieldNumericValue(yrkesdata[0], 'DJ')
+        medelalder: getFieldNumericValue(yrkesdata[0], 'DJ'),
+        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DK'),
+        bosatt: getFieldNumericValue(yrkesdata[0], 'DL')
     }
     const deviations = {
-        medelalder: getFieldNumericValue(yrkesdata[0], 'DK'),
-        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DL'),
-        bosatt: getFieldNumericValue(yrkesdata[0], 'DM')
+        medelalder: getFieldNumericValue(yrkesdata[0], 'DM'),
+        utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DN'),
+        bosatt: getFieldNumericValue(yrkesdata[0], 'DO')
     }
 
     // Make centroids

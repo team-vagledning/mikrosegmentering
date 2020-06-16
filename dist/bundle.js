@@ -17876,7 +17876,7 @@
   		FIELD117: "13,22787024",
   		FIELD118: "0,559922867",
   		FIELD119: "0,241995131",
-  		FIELD120: "11,6%",
+  		FIELD120: "12%",
   		FIELD121: "64%",
   		FIELD122: 72,
   		FIELD123: 31,
@@ -28566,14 +28566,14 @@
     // there're the same for all clusters of the same yrke
 
     var means = {
-      medelalder: getFieldNumericValue(yrkesdata[0], 'DH'),
-      utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DI'),
-      bosatt: getFieldNumericValue(yrkesdata[0], 'DJ')
+      medelalder: getFieldNumericValue(yrkesdata[0], 'DJ'),
+      utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DK'),
+      bosatt: getFieldNumericValue(yrkesdata[0], 'DL')
     };
     var deviations = {
-      medelalder: getFieldNumericValue(yrkesdata[0], 'DK'),
-      utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DL'),
-      bosatt: getFieldNumericValue(yrkesdata[0], 'DM')
+      medelalder: getFieldNumericValue(yrkesdata[0], 'DM'),
+      utbildningsniva: getFieldNumericValue(yrkesdata[0], 'DN'),
+      bosatt: getFieldNumericValue(yrkesdata[0], 'DO')
     }; // Make centroids
 
     var centroids = [];
