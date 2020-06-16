@@ -28264,7 +28264,7 @@
   		FIELD4: 71,
   		FIELD5: "711\t Snickare, murare och anläggningsarbetare\n712\t Takmontörer, golvläggare och VVS-montörer m.fl.\n713\t Målare, lackerare och skorstensfejare m.fl.",
   		FIELD6: "Yrkeshögskola",
-  		FIELD7: "Här hittar du alla yrkesutbildningar i \"län\" inom utbildningsområdet \"Bygg, anläggning och fastighet\"",
+  		FIELD7: "Yrkeshögskoleutbildningar inom utbildningsområdet Bygg, anläggning och fastighet",
   		FIELD8: "Anläggning, vvs, målare mfl",
   		FIELD9: "https://www.yrkeshogskolan.se/hitta-utbildning/sok/?area=samhallsbyggnad&latest-filter=place&query=&sort=name"
   	},
@@ -28275,7 +28275,7 @@
   		FIELD4: 31,
   		FIELD5: "311\t Ingenjörer och tekniker\n312\t Arbetsledare inom bygg och tillverkning m.m.\n315\t Piloter, fartygs- och maskinbefäl m.fl.",
   		FIELD6: "Yrkeshögskola",
-  		FIELD7: "Här hittar du alla yrkesutbildningar i \"län\" inom utbildningsområdet \"Bygg, anläggning och fastighet\"",
+  		FIELD7: "Yrkeshögskoleutbildningar inom utbildningsområdet Bygg, anläggning och fastighet",
   		FIELD8: "Arbetsledare, tillverkning, anläggningsinjenjör, drift & fastighetstekniker mfl.",
   		FIELD9: "https://www.yrkeshogskolan.se/hitta-utbildning/sok/?area=samhallsbyggnad&latest-filter=place&query=&sort=name"
   	},
@@ -28286,7 +28286,7 @@
   		FIELD4: 72,
   		FIELD5: "721\t Gjutare, svetsare och plåtslagare m.fl.\n722\t Smeder och verktygsmakare m.fl.\n723\t Fordonsmekaniker och reparatörer m.fl.",
   		FIELD6: "Yrkeshögskola",
-  		FIELD7: "Här hittar du alla yrkesutbildningar i \"län\" inom utbildningsområdet \"Teknik, tillverkning, drift och underhåll\"",
+  		FIELD7: "Yrkeshögskoleutbildningar inom utbildningsområdet Teknik, tillverkning, drift och underhåll",
   		FIELD8: "Svetsare, smed, verktygsmakare, mekaniker mfl.",
   		FIELD9: "https://www.yrkeshogskolan.se/hitta-utbildning/sok/?area=teknik"
   	},
@@ -28297,7 +28297,7 @@
   		FIELD4: 83,
   		FIELD5: "831\t Lokförare och bangårdspersonal\n832\t Bil-, motorcykel och cykelförare\n833\t Lastbils- och bussförare\n834\t Maskinförare\n835\t Matroser och jungmän m.fl.",
   		FIELD6: "Yrkeshögskola",
-  		FIELD7: "Här hittar du alla yrkesutbildningar i \"län\" inom utbildningsområdet \"Transporttjänster\"",
+  		FIELD7: "Yrkeshögskoleutbildningar inom utbildningsområdet Transporttjänster",
   		FIELD8: "Lokförare mfl.",
   		FIELD9: "https://www.yrkeshogskolan.se/hitta-utbildning/sok/?area=transporttjanster&latest-filter=&query=&sort=relevance"
   	},
@@ -28319,9 +28319,9 @@
   		FIELD4: 71,
   		FIELD5: "711\t Snickare, murare och anläggningsarbetare\n712\t Takmontörer, golvläggare och VVS-montörer m.fl.\n713\t Målare, lackerare och skorstensfejare m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Bygg och anläggning\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Bygg och anläggning",
   		FIELD8: "Byggnadsträarbetare, Industrirörmontör, Byggnasmålare, Ventilationsmontör mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28330,9 +28330,9 @@
   		FIELD4: 31,
   		FIELD5: "311\t Ingenjörer och tekniker\n312\t Arbetsledare inom bygg och tillverkning m.m.\n315\t Piloter, fartygs- och maskinbefäl m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning 1",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Bygg och anläggning\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Bygg och anläggning",
   		FIELD8: "Byggnadsträarbetare, Industrirörmontör, Byggnasmålare, Ventilationsmontör mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28341,9 +28341,9 @@
   		FIELD4: 31,
   		FIELD5: "311\t Ingenjörer och tekniker\n312\t Arbetsledare inom bygg och tillverkning m.m.\n315\t Piloter, fartygs- och maskinbefäl m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning 2",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Hantverksyrken\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Hantverksyrken",
   		FIELD8: "Svetsare, smed, verktygsmakare, mekaniker mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=6&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=6&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28352,9 +28352,9 @@
   		FIELD4: 72,
   		FIELD5: "721\t Gjutare, svetsare och plåtslagare m.fl.\n722\t Smeder och verktygsmakare m.fl.\n723\t Fordonsmekaniker och reparatörer m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning 1",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Bygg och anläggning\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Bygg och anläggning",
   		FIELD8: "Byggnadsträarbetare, Industrirörmontör, Byggnasmålare, Ventilationsmontör mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=2&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28363,9 +28363,9 @@
   		FIELD4: 72,
   		FIELD5: "721\t Gjutare, svetsare och plåtslagare m.fl.\n722\t Smeder och verktygsmakare m.fl.\n723\t Fordonsmekaniker och reparatörer m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning 2",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Hantverksyrken\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Hantverksyrken",
   		FIELD8: "Svetsare, smed, verktygsmakare, mekaniker mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=6&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=6&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28374,9 +28374,9 @@
   		FIELD4: 83,
   		FIELD5: "831\t Lokförare och bangårdspersonal\n832\t Bil-, motorcykel och cykelförare\n833\t Lastbils- och bussförare\n834\t Maskinförare\n835\t Matroser och jungmän m.fl.",
   		FIELD6: "Arbetsmarknadsutbildning",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"Transporttjänster\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Transporttjänster",
   		FIELD8: "Yrkesförare inom buss, lastbil, taxi mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=19&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=19&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "AUB",
@@ -28385,9 +28385,9 @@
   		FIELD4: 91,
   		FIELD5: "911\t Städare och hemservicepersonal m.fl.\n912\t Tvättare, fönsterputsare och övriga rengöringsarbetare",
   		FIELD6: "Arbetsmarknadsutbildning",
-  		FIELD7: "Här hittar du alla arbetsmarknadsutbildningar i \"län\" inom utbildningsområdet \"sanering och renhållning\"",
+  		FIELD7: "Arbetsmarknadsutbildningar inom utbildningsområdet Sanering och renhållning",
   		FIELD8: "Lokalvåradre mfl.",
-  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&adress=&friText=&yrkesomradeId=12&ssyk=0&startInom=90"
+  		FIELD9: "https://www.arbetsformedlingen.se/For-arbetssokande/Extra-stod/Stod-A-O/Sok-arbetsmarknadsutbildningar.html?cmd=sok&maxAvstand=100000&hitsPerPage=10&lat=&lng=&valtYrkesomradeId=&valdYrkesgruppId=&visaSokRadie=false&friText=&yrkesomradeId=12&ssyk=0&startInom=90"
   	},
   	{
   		FIELD1: "Komvux",
@@ -28396,7 +28396,7 @@
   		FIELD4: 71,
   		FIELD5: "711\t Snickare, murare och anläggningsarbetare\n712\t Takmontörer, golvläggare och VVS-montörer m.fl.\n713\t Målare, lackerare och skorstensfejare m.fl.",
   		FIELD6: "Komvux",
-  		FIELD7: "Här hittar du alla komvuxutbildningar för \"län\" inom utbildningsområdet \"Bygg / Anläggning / Fastighet\"",
+  		FIELD7: "Komvuxutbildningar inom utbildningsområdet Bygg / Anläggning / Fastighet",
   		FIELD8: "Anläggning\nArkitektur\nBergteknik\nBygg\nByggnadsvård och skötsel\nEl\nFastighetsförvaltning\nKyl- och VVS teknik\nLedarskap inom bygg\nSnickeri och trä\nSvetsteknik\nÖvrigt inom bygg / anläggnin",
   		FIELD9: "https://allastudier.se/utbildningar/komvux-bygg-anlaggning-fastighet/a323-c3190"
   	},
@@ -28407,7 +28407,7 @@
   		FIELD4: 31,
   		FIELD5: "311\t Ingenjörer och tekniker\n312\t Arbetsledare inom bygg och tillverkning m.m.\n315\t Piloter, fartygs- och maskinbefäl m.fl.",
   		FIELD6: "Komvux",
-  		FIELD7: "Här hittar du alla komvuxutbildningar för \"län\" inom utbildningsområdet \"Bygg / Anläggning / Fastighet\"",
+  		FIELD7: "Komvuxutbildningar inom utbildningsområdet Bygg / Anläggning / Fastighet",
   		FIELD8: "Anläggning\nArkitektur\nBergteknik\nBygg\nByggnadsvård och skötsel\nEl\nFastighetsförvaltning\nKyl- och VVS teknik\nLedarskap inom bygg\nSnickeri och trä\nSvetsteknik\nÖvrigt inom bygg / anläggnin",
   		FIELD9: "https://allastudier.se/utbildningar/komvux-bygg-anlaggning-fastighet/a323-c3190"
   	},
@@ -28418,7 +28418,7 @@
   		FIELD4: 72,
   		FIELD5: "721\t Gjutare, svetsare och plåtslagare m.fl.\n722\t Smeder och verktygsmakare m.fl.\n723\t Fordonsmekaniker och reparatörer m.fl.",
   		FIELD6: "Komvux",
-  		FIELD7: "Här hittar du alla komvuxutbildningar för \"län\" inom utbildningsområdet \"Fordon / Båt / Flyg / Tåg\"",
+  		FIELD7: "Komvuxutbildningar inom utbildningsområdet Fordon / Båt / Flyg / Tåg",
   		FIELD8: "Fordonsmekaniker, perosnbil och MC -teknik mfl",
   		FIELD9: "https://allastudier.se/utbildningar/komvux-fordon-bat-flyg-tag-sverige/a323-c3223-d99260"
   	},
@@ -28429,7 +28429,7 @@
   		FIELD4: 83,
   		FIELD5: "831\t Lokförare och bangårdspersonal\n832\t Bil-, motorcykel och cykelförare\n833\t Lastbils- och bussförare\n834\t Maskinförare\n835\t Matroser och jungmän m.fl.",
   		FIELD6: "Komvux",
-  		FIELD7: "Här hittar du alla komvuxutbildningar för \"län\" inom utbildningsområdet \"Fordon / Båt / Flyg / Tåg\"",
+  		FIELD7: "Komvuxutbildningar inom utbildningsområdet Fordon / Båt / Flyg / Tåg",
   		FIELD8: "Flyg\nJärnväg\nKörkort / Förarbevis\nSjöfart / Navigation\nTransportledare\nÖvrigt inom transport",
   		FIELD9: "https://allastudier.se/utbildningar/komvux-fordon-bat-flyg-tag-sverige/a323-c3223-d99260"
   	},
@@ -28440,7 +28440,7 @@
   		FIELD4: 91,
   		FIELD5: "911         Städare och hemservicepersonal m.fl.\n912         Tvättare, fönsterputsare och övriga rengöringsarbetare",
   		FIELD6: "Komvux",
-  		FIELD7: "Här hittar du alla komvuxutbildningar för \"län\" inom utbildningsområdet \"XXX\"",
+  		FIELD7: "-",
   		FIELD8: "-",
   		FIELD9: "-"
   	}
@@ -28576,127 +28576,127 @@
   	{
   		FIELD1: "AUB",
   		FIELD2: "Blekinge län",
-  		FIELD3: "adress=Blekinge+län",
+  		FIELD3: "&adress=Blekinge+län",
   		FIELD4: "Blekinge"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Dalarnas län",
-  		FIELD3: "adress=Dalarnas+län",
+  		FIELD3: "&adress=Dalarnas+län",
   		FIELD4: "Dalarna"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Gotlands län",
-  		FIELD3: "adress=Gotlands+län",
+  		FIELD3: "&adress=Gotlands+län",
   		FIELD4: "Gotland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Gävleborgs län",
-  		FIELD3: "adress=Gävleborgs+län",
+  		FIELD3: "&adress=Gävleborgs+län",
   		FIELD4: "Gävleborg"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Hallands län",
-  		FIELD3: "adress=Hallands+län",
+  		FIELD3: "&adress=Hallands+län",
   		FIELD4: "Halland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Jämtlands län",
-  		FIELD3: "adress=Jämtlands+län",
+  		FIELD3: "&adress=Jämtlands+län",
   		FIELD4: "Jämtland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Jönköpings län",
-  		FIELD3: "adress=Jönköpings+län",
+  		FIELD3: "&adress=Jönköpings+län",
   		FIELD4: "Jönköping"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Kalmar län",
-  		FIELD3: "adress=Kalmar+län",
+  		FIELD3: "&adress=Kalmar+län",
   		FIELD4: "Kalmar"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Kronobergs län",
-  		FIELD3: "adress=Kronobergs+län",
+  		FIELD3: "&adress=Kronobergs+län",
   		FIELD4: "Kronoberg"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Norrbottens län",
-  		FIELD3: "adress=Norrbottens+län",
+  		FIELD3: "&adress=Norrbottens+län",
   		FIELD4: "Norrbotten"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Skåne län",
-  		FIELD3: "adress=Skåne+län",
+  		FIELD3: "&adress=Skåne+län",
   		FIELD4: "Skåne"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Stockholms län",
-  		FIELD3: "adress=Stockholm+län",
+  		FIELD3: "&adress=Stockholm+län",
   		FIELD4: "Stockholm"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Södermanlands län",
-  		FIELD3: "adress=Södermanlands+län",
+  		FIELD3: "&adress=Södermanlands+län",
   		FIELD4: "Södermanland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Uppsala län",
-  		FIELD3: "adress=Uppsala+län",
+  		FIELD3: "&adress=Uppsala+län",
   		FIELD4: "Uppsala"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Värmlands län",
-  		FIELD3: "adress=Värmlands+län",
+  		FIELD3: "&adress=Värmlands+län",
   		FIELD4: "Värmland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Västerbottens län",
-  		FIELD3: "adress=Västerbottens+län",
+  		FIELD3: "&adress=Västerbottens+län",
   		FIELD4: "Västerbotten"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Västernorrlands län",
-  		FIELD3: "adress=Västernorrlands+län",
+  		FIELD3: "&adress=Västernorrlands+län",
   		FIELD4: "Västernorrland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Västmanlands län",
-  		FIELD3: "adress=Västmanlands+län",
+  		FIELD3: "&adress=Västmanlands+län",
   		FIELD4: "Västmanland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Västra Götalands län",
-  		FIELD3: "adress=Västra+Götalands+län",
+  		FIELD3: "&adress=Västra+Götalands+län",
   		FIELD4: "Västra Götaland"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Örebro län",
-  		FIELD3: "adress=Örebro+län",
+  		FIELD3: "&adress=Örebro+län",
   		FIELD4: "Örebro"
   	},
   	{
   		FIELD1: "AUB",
   		FIELD2: "Östergötlands län",
-  		FIELD3: "adress=Östergötlands+län",
+  		FIELD3: "&adress=Östergötlands+län",
   		FIELD4: "Östergötland"
   	},
   	{
@@ -28888,7 +28888,7 @@
     });
 
     var buildUtbildningLank = function buildUtbildningLank(utbildningstyp, lank) {
-      if (lan && utbildningstyp != "Komvux") {
+      if (lan) {
         var geo = utbildningar_geografi.filter(function (u) {
           return getFieldStringValue(u, 'B') == lan && getFieldStringValue(u, 'A') == utbildningstyp;
         }).pop();
@@ -28897,7 +28897,21 @@
           var suffix = getFieldStringValue(geo, 'C');
 
           if (suffix.length > 1) {
-            lank += suffix;
+            if (utbildningstyp == "Komvux") {
+              var s1 = lank.split('/');
+              var s2 = s1[s1.length - 1].split('-');
+
+              if (s2.length > 2) {
+                s2.pop();
+              }
+
+              s2.push(getFieldStringValue(geo, 'D'));
+              s2 = s2.join('-');
+              s1[s1.length - 1] = s2;
+              lank = s1.join('/');
+            } else {
+              lank += getFieldStringValue(geo, 'C');
+            }
           }
         }
       }
@@ -28906,10 +28920,17 @@
     };
 
     return utb.map(function (u) {
+      if (getFieldStringValue(u, 'I').length < 2) {
+        return false;
+      }
+
       return {
         utbildningstyp: getFieldStringValue(u, 'A'),
+        beskrivning: getFieldStringValue(u, 'G'),
         lank: buildUtbildningLank(getFieldStringValue(u, 'A'), getFieldStringValue(u, 'I'))
       };
+    }).filter(function (u) {
+      return u !== false;
     });
   };
 
@@ -28942,7 +28963,7 @@
 
     if (withRelated) {
       var related = likhetsanalys[ssyk].map(function (r) {
-        return getYrke(r, false);
+        return getYrke(r, false, lan);
       });
       results['relaterade_yrken'] = related;
     }

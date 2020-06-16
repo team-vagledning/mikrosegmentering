@@ -57,15 +57,36 @@ const getFieldStringValue = (record, excelField) =>
 const getUtbildningar = (ssyk, lan = false) => {
     // Get utbildningar
     const utb = utbildningar.filter((u) => getFieldNumericValue(u, 'D') == ssyk)
-
+    
     const buildUtbildningLank = (utbildningstyp, lank) => {
-        if (lan && utbildningstyp != "Komvux") {
+
+        if (lan) {
             const geo = utbildningar_geografi.filter((u) => getFieldStringValue(u, 'B') == lan && getFieldStringValue(u, 'A') == utbildningstyp).pop()
 
             if (geo) {
+
                 const suffix = getFieldStringValue(geo, 'C')
+
                 if (suffix.length > 1) {
-                    lank += suffix
+                    if (utbildningstyp == "Komvux") {
+                        let s1 = lank.split('/')
+                        let s2 = s1[s1.length - 1].split('-')
+
+                        if (s2.length > 2) {
+                            s2.pop()
+                        }
+
+                        s2.push(getFieldStringValue(geo, 'D'))
+                    
+                        s2 = s2.join('-')
+                        s1[s1.length - 1] = s2
+
+                        lank = s1.join('/')
+
+                
+                    } else {
+                        lank += getFieldStringValue(geo, 'C')
+                    }
                 }
             }
         }
@@ -74,14 +95,20 @@ const getUtbildningar = (ssyk, lan = false) => {
     }
 
     return utb.map((u) => {
+
+        if (getFieldStringValue(u, 'I').length < 2) {
+            return false
+        }
+
         return {
             utbildningstyp: getFieldStringValue(u, 'A'),
+            beskrivning: getFieldStringValue(u, 'G'),
             lank: buildUtbildningLank(
                 getFieldStringValue(u, 'A'),
                 getFieldStringValue(u, 'I')
             ),
         }
-    })
+    }).filter((u) => u !== false)
 }
 
 const getYrke = (ssyk, withRelated = true, lan) => {
@@ -110,7 +137,7 @@ const getYrke = (ssyk, withRelated = true, lan) => {
     // Get related yrken
     if (withRelated) {
         const related = likhetsanalys[ssyk].map((r) => {
-            return getYrke(r, false)
+            return getYrke(r, false, lan)
         })
 
         results['relaterade_yrken'] = related

@@ -128,127 +128,127 @@
  {
    "FIELD1": "AUB",
    "FIELD2": "Blekinge län",
-   "FIELD3": "adress=Blekinge+län",
+   "FIELD3": "&adress=Blekinge+län",
    "FIELD4": "Blekinge"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Dalarnas län",
-   "FIELD3": "adress=Dalarnas+län",
+   "FIELD3": "&adress=Dalarnas+län",
    "FIELD4": "Dalarna"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Gotlands län",
-   "FIELD3": "adress=Gotlands+län",
+   "FIELD3": "&adress=Gotlands+län",
    "FIELD4": "Gotland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Gävleborgs län",
-   "FIELD3": "adress=Gävleborgs+län",
+   "FIELD3": "&adress=Gävleborgs+län",
    "FIELD4": "Gävleborg"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Hallands län",
-   "FIELD3": "adress=Hallands+län",
+   "FIELD3": "&adress=Hallands+län",
    "FIELD4": "Halland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Jämtlands län",
-   "FIELD3": "adress=Jämtlands+län",
+   "FIELD3": "&adress=Jämtlands+län",
    "FIELD4": "Jämtland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Jönköpings län",
-   "FIELD3": "adress=Jönköpings+län",
+   "FIELD3": "&adress=Jönköpings+län",
    "FIELD4": "Jönköping"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Kalmar län",
-   "FIELD3": "adress=Kalmar+län",
+   "FIELD3": "&adress=Kalmar+län",
    "FIELD4": "Kalmar"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Kronobergs län",
-   "FIELD3": "adress=Kronobergs+län",
+   "FIELD3": "&adress=Kronobergs+län",
    "FIELD4": "Kronoberg"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Norrbottens län",
-   "FIELD3": "adress=Norrbottens+län",
+   "FIELD3": "&adress=Norrbottens+län",
    "FIELD4": "Norrbotten"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Skåne län",
-   "FIELD3": "adress=Skåne+län",
+   "FIELD3": "&adress=Skåne+län",
    "FIELD4": "Skåne"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Stockholms län",
-   "FIELD3": "adress=Stockholm+län",
+   "FIELD3": "&adress=Stockholm+län",
    "FIELD4": "Stockholm"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Södermanlands län",
-   "FIELD3": "adress=Södermanlands+län",
+   "FIELD3": "&adress=Södermanlands+län",
    "FIELD4": "Södermanland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Uppsala län",
-   "FIELD3": "adress=Uppsala+län",
+   "FIELD3": "&adress=Uppsala+län",
    "FIELD4": "Uppsala"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Värmlands län",
-   "FIELD3": "adress=Värmlands+län",
+   "FIELD3": "&adress=Värmlands+län",
    "FIELD4": "Värmland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Västerbottens län",
-   "FIELD3": "adress=Västerbottens+län",
+   "FIELD3": "&adress=Västerbottens+län",
    "FIELD4": "Västerbotten"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Västernorrlands län",
-   "FIELD3": "adress=Västernorrlands+län",
+   "FIELD3": "&adress=Västernorrlands+län",
    "FIELD4": "Västernorrland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Västmanlands län",
-   "FIELD3": "adress=Västmanlands+län",
+   "FIELD3": "&adress=Västmanlands+län",
    "FIELD4": "Västmanland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Västra Götalands län",
-   "FIELD3": "adress=Västra+Götalands+län",
+   "FIELD3": "&adress=Västra+Götalands+län",
    "FIELD4": "Västra Götaland"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Örebro län",
-   "FIELD3": "adress=Örebro+län",
+   "FIELD3": "&adress=Örebro+län",
    "FIELD4": "Örebro"
  },
  {
    "FIELD1": "AUB",
    "FIELD2": "Östergötlands län",
-   "FIELD3": "adress=Östergötlands+län",
+   "FIELD3": "&adress=Östergötlands+län",
    "FIELD4": "Östergötland"
  },
  {
