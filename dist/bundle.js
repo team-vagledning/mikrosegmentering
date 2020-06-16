@@ -24013,12 +24013,14 @@
   				{
   					value: 4.75,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.67,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24028,12 +24030,14 @@
   				{
   					value: 2,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.19,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24043,12 +24047,14 @@
   				{
   					value: 3.21,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.17,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24058,12 +24064,14 @@
   				{
   					value: 4.36,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.25,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24073,12 +24081,14 @@
   				{
   					value: 4.8,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.56,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24088,12 +24098,14 @@
   				{
   					value: 4.51,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.51,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24103,12 +24115,14 @@
   				{
   					value: 4.15,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24118,12 +24132,14 @@
   				{
   					value: 3.94,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24133,12 +24149,14 @@
   				{
   					value: 3.56,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.38,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -24164,12 +24182,14 @@
   				{
   					value: 4.39,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.59,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24179,12 +24199,14 @@
   				{
   					value: 4.75,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.65,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24194,12 +24216,14 @@
   				{
   					value: 4.49,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.58,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24209,12 +24233,14 @@
   				{
   					value: 4.66,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.58,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24224,12 +24250,14 @@
   				{
   					value: 4.27,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.2,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24239,12 +24267,14 @@
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.59,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24254,12 +24284,14 @@
   				{
   					value: 4.35,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.3,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24269,12 +24301,14 @@
   				{
   					value: 3.99,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.91,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24284,12 +24318,14 @@
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24299,12 +24335,14 @@
   				{
   					value: 3.82,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.93,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24314,12 +24352,14 @@
   				{
   					value: 4.89,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.74,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24329,12 +24369,14 @@
   				{
   					value: 4.89,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.74,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24344,12 +24386,14 @@
   				{
   					value: 4.89,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.74,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24359,12 +24403,14 @@
   				{
   					value: 4.89,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.74,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24374,12 +24420,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24389,12 +24437,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24404,12 +24454,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24419,12 +24471,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24434,12 +24488,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24449,12 +24505,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24464,12 +24522,14 @@
   				{
   					value: 4.82,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.73,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -24495,12 +24555,14 @@
   				{
   					value: 3.64,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.56,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24510,12 +24572,14 @@
   				{
   					value: 4.67,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.51,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24525,12 +24589,14 @@
   				{
   					value: 4.2,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.41,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24540,12 +24606,14 @@
   				{
   					value: 4.52,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.65,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24555,12 +24623,14 @@
   				{
   					value: 4.15,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.26,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24570,12 +24640,14 @@
   				{
   					value: 4.81,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.75,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24585,12 +24657,14 @@
   				{
   					value: 4.77,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.67,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24600,12 +24674,14 @@
   				{
   					value: 3.67,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.72,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -24631,12 +24707,14 @@
   				{
   					value: 3.8,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24646,12 +24724,14 @@
   				{
   					value: 3.85,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.48,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24661,12 +24741,14 @@
   				{
   					value: 2.72,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.64,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24676,12 +24758,14 @@
   				{
   					value: 3.06,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.22,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24691,12 +24775,14 @@
   				{
   					value: 3.04,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.11,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24706,12 +24792,14 @@
   				{
   					value: 3.09,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.95,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24721,12 +24809,14 @@
   				{
   					value: 2.74,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.35,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24736,12 +24826,14 @@
   				{
   					value: 3.02,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.93,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -24767,12 +24859,14 @@
   				{
   					value: 4.84,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.61,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24782,12 +24876,14 @@
   				{
   					value: 4.88,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.63,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24797,12 +24893,14 @@
   				{
   					value: 4.72,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.37,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24812,12 +24910,14 @@
   				{
   					value: 4.61,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.01,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -24843,12 +24943,14 @@
   				{
   					value: 3.7,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.17,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24858,12 +24960,14 @@
   				{
   					value: 2.91,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.9,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24873,12 +24977,14 @@
   				{
   					value: 2,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24888,12 +24994,14 @@
   				{
   					value: 3.79,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.94,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24903,12 +25011,14 @@
   				{
   					value: 2,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.56,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24918,12 +25028,14 @@
   				{
   					value: 4.12,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.28,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24933,12 +25045,14 @@
   				{
   					value: 3.56,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.87,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -24948,12 +25062,14 @@
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.02,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -24979,12 +25095,14 @@
   				{
   					value: 4.7,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.58,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -24994,12 +25112,14 @@
   				{
   					value: 4.21,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.29,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25009,12 +25129,14 @@
   				{
   					value: 4.6,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.32,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25024,12 +25146,14 @@
   				{
   					value: 4.47,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.37,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25039,12 +25163,14 @@
   				{
   					value: 4.34,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.95,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -25070,12 +25196,14 @@
   				{
   					value: 4.47,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.07,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25085,12 +25213,14 @@
   				{
   					value: 3.74,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25100,12 +25230,14 @@
   				{
   					value: 4.31,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.01,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25115,12 +25247,14 @@
   				{
   					value: 3.81,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.7,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25130,12 +25264,14 @@
   				{
   					value: 3.59,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.47,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25161,12 +25297,14 @@
   				{
   					value: 3.73,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25176,12 +25314,14 @@
   				{
   					value: 3.28,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.27,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25191,12 +25331,14 @@
   				{
   					value: 3.28,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.14,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25206,12 +25348,14 @@
   				{
   					value: 2.98,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.53,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25221,12 +25365,14 @@
   				{
   					value: 3.06,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.97,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25236,12 +25382,14 @@
   				{
   					value: 3.31,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25251,12 +25399,14 @@
   				{
   					value: 2.33,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.49,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25266,12 +25416,14 @@
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.68,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25281,12 +25433,14 @@
   				{
   					value: 3.84,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.34,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25296,12 +25450,14 @@
   				{
   					value: 3.05,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.97,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25311,12 +25467,14 @@
   				{
   					value: 3.44,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.42,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25326,12 +25484,14 @@
   				{
   					value: 2.88,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.73,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25341,12 +25501,14 @@
   				{
   					value: 3.43,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25356,12 +25518,14 @@
   				{
   					value: 3.89,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25371,12 +25535,14 @@
   				{
   					value: 3.35,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -25402,12 +25568,14 @@
   				{
   					value: 1,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.57,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25417,12 +25585,14 @@
   				{
   					value: 3.43,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.8,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25432,12 +25602,14 @@
   				{
   					value: 3.17,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.15,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25463,12 +25635,14 @@
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.75,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25478,12 +25652,14 @@
   				{
   					value: 3.36,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.66,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25493,12 +25669,14 @@
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25508,12 +25686,14 @@
   				{
   					value: 3.36,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.74,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25539,12 +25719,14 @@
   				{
   					value: 2.75,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.65,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25554,12 +25736,14 @@
   				{
   					value: 3.21,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.09,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25569,12 +25753,14 @@
   				{
   					value: 2.89,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.78,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25584,12 +25770,14 @@
   				{
   					value: 4.11,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25599,12 +25787,14 @@
   				{
   					value: 2.53,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.99,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25614,12 +25804,14 @@
   				{
   					value: 2.82,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.52,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25629,12 +25821,14 @@
   				{
   					value: 2.73,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.62,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25660,12 +25854,14 @@
   				{
   					value: 2.45,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.99,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25675,12 +25871,14 @@
   				{
   					value: 2.65,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.99,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25690,12 +25888,14 @@
   				{
   					value: 2.81,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.67,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25705,12 +25905,14 @@
   				{
   					value: 3.15,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.13,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25720,12 +25922,14 @@
   				{
   					value: 3.1,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.89,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25751,12 +25955,14 @@
   				{
   					value: 3.01,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.92,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25766,12 +25972,14 @@
   				{
   					value: 3.71,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.46,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -25797,12 +26005,14 @@
   				{
   					value: 2.52,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.83,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25828,12 +26038,14 @@
   				{
   					value: 4.69,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.71,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25843,12 +26055,14 @@
   				{
   					value: 3.99,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.94,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25858,12 +26072,14 @@
   				{
   					value: 3.67,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.44,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25873,12 +26089,14 @@
   				{
   					value: 3.76,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.48,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25888,12 +26106,14 @@
   				{
   					value: 3.28,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.11,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25903,12 +26123,14 @@
   				{
   					value: 3.07,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.95,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -25918,12 +26140,14 @@
   				{
   					value: 3,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.83,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25933,12 +26157,14 @@
   				{
   					value: 3.2,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.3,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25948,12 +26174,14 @@
   				{
   					value: 3.64,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.21,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -25979,12 +26207,14 @@
   				{
   					value: 2.69,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.99,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -25994,12 +26224,14 @@
   				{
   					value: 2.63,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.39,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26009,12 +26241,14 @@
   				{
   					value: 2.88,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.59,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26024,12 +26258,14 @@
   				{
   					value: 3.02,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.22,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26039,12 +26275,14 @@
   				{
   					value: 2.27,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 1.99,
   					text: "Väldigt hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26054,12 +26292,14 @@
   				{
   					value: 3.57,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -26085,12 +26325,14 @@
   				{
   					value: 4.25,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.45,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26100,12 +26342,14 @@
   				{
   					value: 3.72,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26115,12 +26359,14 @@
   				{
   					value: 3.33,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.14,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26130,12 +26376,14 @@
   				{
   					value: 3.54,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.61,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26145,12 +26393,14 @@
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.91,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26160,12 +26410,14 @@
   				{
   					value: 3.17,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.08,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26175,12 +26427,14 @@
   				{
   					value: 3.32,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.42,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26190,12 +26444,14 @@
   				{
   					value: 3.78,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.49,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26205,12 +26461,14 @@
   				{
   					value: 3.96,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.82,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -26236,12 +26494,14 @@
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.07,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26251,12 +26511,14 @@
   				{
   					value: 3.73,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.81,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26266,12 +26528,14 @@
   				{
   					value: 3.85,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.57,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -26297,12 +26561,14 @@
   				{
   					value: 3.44,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.18,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26312,12 +26578,14 @@
   				{
   					value: 3.6,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26327,12 +26595,14 @@
   				{
   					value: 3.89,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.7,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26342,12 +26612,14 @@
   				{
   					value: 3.62,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.46,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -26373,12 +26645,14 @@
   				{
   					value: 3.62,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.47,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -26404,12 +26678,14 @@
   				{
   					value: 4.1,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.34,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26419,12 +26695,14 @@
   				{
   					value: 4.14,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.35,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26434,12 +26712,14 @@
   				{
   					value: 4.26,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.39,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26449,12 +26729,14 @@
   				{
   					value: 4.25,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.26,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26464,12 +26746,14 @@
   				{
   					value: 4.02,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26479,12 +26763,14 @@
   				{
   					value: 4.03,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.21,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26494,12 +26780,14 @@
   				{
   					value: 4.3,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.33,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26509,12 +26797,14 @@
   				{
   					value: 4.6,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.55,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26524,12 +26814,14 @@
   				{
   					value: 4.48,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.31,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26539,12 +26831,14 @@
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26554,12 +26848,14 @@
   				{
   					value: 3.45,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.33,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26569,12 +26865,14 @@
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26600,12 +26898,14 @@
   				{
   					value: 4.45,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.49,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26615,12 +26915,14 @@
   				{
   					value: 4.49,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.43,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26630,12 +26932,14 @@
   				{
   					value: 4.39,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.3,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26645,12 +26949,14 @@
   				{
   					value: 4.09,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.16,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26660,12 +26966,14 @@
   				{
   					value: 4.37,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.28,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26675,12 +26983,14 @@
   				{
   					value: 3.97,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.98,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26690,12 +27000,14 @@
   				{
   					value: 4.05,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.25,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26721,12 +27033,14 @@
   				{
   					value: 3.94,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.76,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26736,12 +27050,14 @@
   				{
   					value: 2.8,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.76,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26767,12 +27083,14 @@
   				{
   					value: 4.34,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.46,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26782,12 +27100,14 @@
   				{
   					value: 4.31,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.37,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26797,12 +27117,14 @@
   				{
   					value: 4.29,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.1,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26812,12 +27134,14 @@
   				{
   					value: 3.89,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.88,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26843,12 +27167,14 @@
   				{
   					value: 3.31,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.72,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26858,12 +27184,14 @@
   				{
   					value: 3.31,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.85,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26889,12 +27217,14 @@
   				{
   					value: 4.15,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.14,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26904,12 +27234,14 @@
   				{
   					value: 3.81,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.85,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -26935,12 +27267,14 @@
   				{
   					value: 3.84,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.68,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26950,12 +27284,14 @@
   				{
   					value: 3.77,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.63,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26965,12 +27301,14 @@
   				{
   					value: 3.5,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.5,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -26980,12 +27318,14 @@
   				{
   					value: 3.93,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 3.56,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -26995,12 +27335,14 @@
   				{
   					value: 3.21,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.47,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27010,12 +27352,14 @@
   				{
   					value: 3.35,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27025,12 +27369,14 @@
   				{
   					value: 3.59,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.49,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27040,12 +27386,14 @@
   				{
   					value: 3.06,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.26,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27055,12 +27403,14 @@
   				{
   					value: 3.19,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.24,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27070,12 +27420,14 @@
   				{
   					value: 3.31,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.37,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27085,12 +27437,14 @@
   				{
   					value: 3.08,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.03,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -27116,12 +27470,14 @@
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27131,12 +27487,14 @@
   				{
   					value: 3.53,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27146,12 +27504,14 @@
   				{
   					value: 3.07,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.14,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27161,12 +27521,14 @@
   				{
   					value: 3.25,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.14,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		}
@@ -27192,12 +27554,14 @@
   				{
   					value: 4.37,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.29,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27207,12 +27571,14 @@
   				{
   					value: 4.33,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 4.01,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27222,12 +27588,14 @@
   				{
   					value: 4.47,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.96,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27237,12 +27605,14 @@
   				{
   					value: 3.69,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.7,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27252,12 +27622,14 @@
   				{
   					value: 4.23,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.23,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27267,12 +27639,14 @@
   				{
   					value: 4.51,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 4.47,
   					text: "Väldigt liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27282,12 +27656,14 @@
   				{
   					value: 3.41,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.08,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -27313,12 +27689,14 @@
   				{
   					value: 3.44,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -27344,12 +27722,14 @@
   				{
   					value: 2.99,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.07,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: true
   				}
   			]
   		},
@@ -27359,12 +27739,14 @@
   				{
   					value: 2.46,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.45,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -27390,12 +27772,14 @@
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.27,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27405,12 +27789,14 @@
   				{
   					value: 3.28,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 3.09,
   					text: "Måttlig konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27420,12 +27806,14 @@
   				{
   					value: 2.74,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.84,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -27451,12 +27839,14 @@
   				{
   					value: 2.16,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.25,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27466,12 +27856,14 @@
   				{
   					value: 3.29,
   					text: "Måttlig konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: true
   				},
   				{
   					value: 2.89,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		},
@@ -27481,12 +27873,14 @@
   				{
   					value: 2.74,
   					text: "Hård konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: false
   				},
   				{
   					value: 2.76,
   					text: "Hård konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: false
   				}
   			]
   		}
@@ -27512,12 +27906,14 @@
   				{
   					value: 3.95,
   					text: "Liten konkurrens",
-  					omfattning: 1
+  					omfattning: 1,
+  					corona_flagga: null
   				},
   				{
   					value: 3.81,
   					text: "Liten konkurrens",
-  					omfattning: 5
+  					omfattning: 5,
+  					corona_flagga: null
   				}
   			]
   		}
